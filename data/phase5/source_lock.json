@@ -1,0 +1,97 @@
+{
+  "vintage_toronto": "2026-11-18",
+  "inputs": {
+    "annual": {
+      "path": "data/phase3/annual_exposure.csv",
+      "sha256": "92f0f47740abb69dd025c9b92597b811eb1fbae91c5bc6cc2a9fa87ec90462ab"
+    },
+    "monthly": {
+      "path": "data/phase3/monthly_exposure.csv",
+      "sha256": "4d70e0cf6f99b483918def1ce210c5f44a2a89ca8218a8b3e914df25c7aa79dd"
+    },
+    "matched": {
+      "path": "data/phase3/matched_monthly_ytd.csv",
+      "sha256": "06e2424573a5404385bc8211d3395b694d0025c8c74f0730153f5c83c215d047"
+    },
+    "hhi": {
+      "path": "data/phase3/destination_hhi_benchmark.csv",
+      "sha256": "76fbd48756b10eeb10e9ccf3ef47530d3597288a2260087614242ce3ba0c9955"
+    },
+    "destinations": {
+      "path": "data/phase3/national_non_us_destinations.csv",
+      "sha256": "4c76af7287ba43459a1992c06e3b1692a6834a42d128aebd688c9107c7b049ba"
+    },
+    "share_decomposition": {
+      "path": "data/phase3/national_exposure_decomposition.csv",
+      "sha256": "c592cd85f29d9c2b73044b42588ba8ddd35ef869656f39078fa790081b15f1fe"
+    },
+    "intensity": {
+      "path": "data/phase3/provincial_export_intensity.csv",
+      "sha256": "bcebc07166cb94282d9fd3b609268dcf45bb72dfa73c3bb15cd83a068e0c80c3"
+    },
+    "value_added": {
+      "path": "data/phase3/value_added_and_jobs_benchmarks.csv",
+      "sha256": "746b4f888af2123bc27f5f834b85bd942bf212cc02b7f737ef94cef78c557b0c"
+    },
+    "hs": {
+      "path": "data/phase4a/hs6_country_value_changes.csv",
+      "sha256": "493f3eae4adcd34f64c6c1049fa3de3281441d38d495f62ba93ba104e1892fc3"
+    },
+    "hs8": {
+      "path": "data/phase4a/hs8_quantity_checks.csv",
+      "sha256": "981b934d989b9542a5ff29bd35a06190b592b7d2b6ea93aeb428452241fabe06"
+    },
+    "gold_hhi": {
+      "path": "data/phase4a/non_us_gold_exclusion_sensitivity.csv",
+      "sha256": "1ba7f8a7a4849846a1c08f677a57f0c582f3763f6f83c0644fe1e2c4745a53ae"
+    },
+    "uk_mix": {
+      "path": "data/phase4a/uk_share_composition.csv",
+      "sha256": "332b242050cd321709a7b6bbfbcea4caf3991a2c2985fe010acc9f19d417a74b"
+    },
+    "hhi_audit": {
+      "path": "data/phase4a/hhi_method_sensitivity.csv",
+      "sha256": "baf9c1b262fcc8dd2ba94aab02a6b143fcdd6efe8741d1ee1f46b1eab8412b91"
+    },
+    "regression": {
+      "path": "data/phase4b/primary_regression.csv",
+      "sha256": "b266ad97a4c5c4d58f5944355331f24af1949abb2888c0802fa03914eddee539"
+    },
+    "robustness": {
+      "path": "data/phase4b/robustness_summary.csv",
+      "sha256": "461fc0d580145e04ac731ae351a0e48e7d79cbe42d6518eb54bf89e9a235d03e"
+    },
+    "influence": {
+      "path": "data/phase4b/province_influence.csv",
+      "sha256": "fda8c9003fb1f38467e7c2f8739ab66d14a0ecb8041909f888d9af1253ff2fd1"
+    },
+    "coverage": {
+      "path": "data/phase4b/sample_exclusion_ledger.csv",
+      "sha256": "7c89d8d76eae9ded5d47a7469cdf974c3ccc1c793f5fc2f89e2e5d21d67eaa92"
+    },
+    "pilot_codes": {
+      "path": "data/phase4b/tariff_pilot/us_legal_hts10.csv",
+      "sha256": "a4875f8dbbaab5ecf882f3b81db6dee6a310a4ab2a35bd1733c5a72017784bb7"
+    },
+    "pilot_coverage": {
+      "path": "data/phase4b/tariff_pilot/canadian_coverage.csv",
+      "sha256": "54d3c7fba6ed847bc78ca0ed2284ad8d0619dd39ebb8ecb0f243a99ddd14e940"
+    },
+    "pilot_mirror": {
+      "path": "data/phase4b/tariff_pilot/us_import_scope_totals.csv",
+      "sha256": "6cc5e6f4e379da8c23c107c4dbccccd9a4f0e944cdad1037f11496adfbdb3a7d"
+    },
+    "model_metadata": {
+      "path": "data/phase4b/primary_diagnostics.json",
+      "sha256": "d68476efde1c2fa0e846d1095081383f6a6d49447993cc2ad4500446af24ab29"
+    },
+    "preflight": {
+      "path": "data/phase4b/preflight.json",
+      "sha256": "85efc156949f192417ee21ec1bdb9c7c6af07f079bb2f7ff61ec630826d60160"
+    },
+    "pilot_metadata": {
+      "path": "data/phase4b/tariff_pilot/manifest.json",
+      "sha256": "e854019b67477eecc48bd09be15c7978b83083506cc05f7294763402d52d4052"
+    }
+  }
+}

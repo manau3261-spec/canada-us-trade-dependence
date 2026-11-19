@@ -1,0 +1,45 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.14.8, pytest-9.0.2, pluggy-1.7.0 -- ./.venv/bin/python
+cachedir: .pytest_cache
+rootdir: .
+configfile: pyproject.toml
+testpaths: tests
+collecting ... collected 35 items
+
+tests/test_audit.py::test_period_syntax[2026-09-monthly-True] PASSED     [  2%]
+tests/test_audit.py::test_period_syntax[2026-13-monthly-False] PASSED    [  5%]
+tests/test_audit.py::test_period_syntax[2025-annual-True] PASSED         [  8%]
+tests/test_audit.py::test_period_syntax[2025-12-annual-False] PASSED     [ 11%]
+tests/test_audit.py::test_scope_bounds PASSED                            [ 14%]
+tests/test_audit.py::test_status_helpers_keep_reported_zero PASSED       [ 17%]
+tests/test_audit.py::test_rounding_boundary PASSED                       [ 20%]
+tests/test_audit.py::test_hash_and_official_members[12100173] PASSED     [ 22%]
+tests/test_audit.py::test_hash_and_official_members[12100175] PASSED     [ 25%]
+tests/test_audit.py::test_hash_and_official_members[12100129] PASSED     [ 28%]
+tests/test_audit.py::test_hash_and_official_members[12100100] PASSED     [ 31%]
+tests/test_audit.py::test_hash_and_official_members[36100711] PASSED     [ 34%]
+tests/test_audit.py::test_hash_and_official_members[14100022] PASSED     [ 37%]
+tests/test_audit.py::test_metadata_response_hash PASSED                  [ 40%]
+tests/test_audit.py::test_crc_and_full_concentration_scan PASSED         [ 42%]
+tests/test_audit.py::test_duplicate_keys_across_batch_boundary PASSED    [ 45%]
+tests/test_audit.py::test_hhi_against_independent_formula PASSED         [ 48%]
+tests/test_audit.py::test_hhi_withheld_on_missing_partner PASSED         [ 51%]
+tests/test_audit.py::test_monthly_branch_withholds_hhi PASSED            [ 54%]
+tests/test_audit.py::test_tampered_archive_rejected PASSED               [ 57%]
+tests/test_audit.py::test_partial_availability_is_recorded PASSED        [ 60%]
+tests/test_audit.py::test_descriptive_extract_matches_validation PASSED  [ 62%]
+tests/test_phase3.py::test_phase3_data_manifest PASSED                   [ 65%]
+tests/test_phase3.py::test_annual_periods_geographies_and_product_keys PASSED [ 68%]
+tests/test_phase3.py::test_domestic_export_share_and_zero_denominators PASSED [ 71%]
+tests/test_phase3.py::test_hhi_identity_and_unallocated_destination_guard PASSED [ 74%]
+tests/test_phase3.py::test_non_us_hhi_matches_direct_destination_input PASSED [ 77%]
+tests/test_phase3.py::test_nominal_export_intensity_preserves_absent_gdp PASSED [ 80%]
+tests/test_phase3.py::test_regional_sums_reconcile_to_official_national_rows PASSED [ 82%]
+tests/test_phase3.py::test_2020_active_and_archived_reconciliation PASSED [ 85%]
+tests/test_phase3.py::test_monthly_selection_and_ytd_weights PASSED      [ 88%]
+tests/test_phase3.py::test_decomposition_sums_to_national_share_change PASSED [ 91%]
+tests/test_phase3.py::test_outcome_coverage_and_missingness PASSED       [ 94%]
+tests/test_phase3.py::test_value_added_national_and_subnational_windows PASSED [ 97%]
+tests/test_phase3.py::test_both_language_editions_of_all_figures_reproduce PASSED [100%]
+
+============================== 35 passed in 5.61s ==============================

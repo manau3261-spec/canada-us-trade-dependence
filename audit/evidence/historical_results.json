@@ -1,0 +1,48 @@
+{
+  "active_2020": {
+    "comparisons": 5096,
+    "outside_rounding": 228,
+    "largest_absolute_difference_CAD": 129574300.00001192
+  },
+  "archived_2020": {
+    "comparisons": 5096,
+    "outside_rounding": 0,
+    "largest_absolute_difference_CAD": 3599.999999999909
+  },
+  "pilot": {
+    "core_hts10": 744,
+    "hts8": 301,
+    "hs6": 167,
+    "hs4": 29,
+    "complete_us_hs4_from_locked_coverage": 24,
+    "common_us_mexico_from_locked_coverage": [
+      "721049",
+      "722530",
+      "722830",
+      "730630"
+    ],
+    "duties": [
+      {
+        "month": "202501",
+        "consumption_customs_value_usd": 637544932,
+        "dutiable_value_usd": 11822,
+        "calculated_duty_usd": 0,
+        "ratio": 0.0
+      },
+      {
+        "month": "202504",
+        "consumption_customs_value_usd": 446924586,
+        "dutiable_value_usd": 405670518,
+        "calculated_duty_usd": 102039795,
+        "ratio": 0.2283154657327355
+      },
+      {
+        "month": "202505",
+        "consumption_customs_value_usd": 411796108,
+        "dutiable_value_usd": 370785736,
+        "calculated_duty_usd": 93065099,
+        "ratio": 0.22599800530412006
+      }
+    ]
+  }
+}

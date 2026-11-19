@@ -1,0 +1,3 @@
+Static hygiene scan | 212 files | no matching sensitive paths or credentials
+PDF reconciliation | 41 pages | 22 figures | 32 locked numerical facts per language
+Relative links verified in README and all five Phase 6 documents

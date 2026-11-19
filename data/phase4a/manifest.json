@@ -1,0 +1,33 @@
+{
+  "source_vintage": "20261119T001720Z-cacfc394",
+  "cimt_rows": {
+    "2024": 1292368,
+    "2025": 1264188
+  },
+  "files": {
+    "hs6_country_value_changes.csv": {
+      "rows": 109482,
+      "sha256": "493f3eae4adcd34f64c6c1049fa3de3281441d38d495f62ba93ba104e1892fc3"
+    },
+    "hs8_quantity_checks.csv": {
+      "rows": 1549,
+      "sha256": "981b934d989b9542a5ff29bd35a06190b592b7d2b6ea93aeb428452241fabe06"
+    },
+    "uk_share_composition.csv": {
+      "rows": 4801,
+      "sha256": "332b242050cd321709a7b6bbfbcea4caf3991a2c2985fe010acc9f19d417a74b"
+    },
+    "non_us_gold_exclusion_sensitivity.csv": {
+      "rows": 6,
+      "sha256": "1ba7f8a7a4849846a1c08f677a57f0c582f3763f6f83c0644fe1e2c4745a53ae"
+    },
+    "hhi_method_sensitivity.csv": {
+      "rows": 224,
+      "sha256": "baf9c1b262fcc8dd2ba94aab02a6b143fcdd6efe8741d1ee1f46b1eab8412b91"
+    },
+    "design_C_coverage.csv": {
+      "rows": 1540,
+      "sha256": "3f732b3fc136ffccea1dcd19c31f4bfa6871e6e8bd8a88fed2ee3061038b50e5"
+    }
+  }
+}

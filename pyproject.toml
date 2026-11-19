@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canada-us-trade-dependence"
+version = "0.3.0"
+description = "Acquisition, validation, and descriptive analysis of official Statistics Canada data"
+authors = [{name = "Manau Salaun"}]
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.14,<3.15"
+dependencies = [
+    "numpy==2.4.4",
+    "pandas==3.0.2",
+    "requests==2.32.5",
+]
+
+[project.optional-dependencies]
+test = ["pytest==9.0.2"]
+figures = ["matplotlib==3.10.9"]
+econometrics = ["scipy==1.17.1", "statsmodels==0.14.6", "patsy==1.0.2"]
+
+[project.scripts]
+trade-audit = "trade_audit.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests/test_phase5.py"]
+pythonpath = ["src"]
+addopts = "-ra"

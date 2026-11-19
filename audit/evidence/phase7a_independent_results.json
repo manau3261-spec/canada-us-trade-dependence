@@ -1,0 +1,299 @@
+{
+  "trade": {
+    "annual_rows": 2912,
+    "monthly_total_rows": 294,
+    "destination_rows": 4080,
+    "top5_nonUS_share": {
+      "2024": 0.4995121148606816,
+      "2025": 0.5485048903053422
+    },
+    "national": {
+      "2023": {
+        "world_cad_thousands": 712325752.4,
+        "us_cad_thousands": 547568093.7,
+        "non_us_cad_thousands": 164757658.69999993,
+        "us_share": 0.7687046156272028,
+        "destination_hhi": 0.5942747312007758,
+        "destination_hhi_ex_us": 0.06295512243085566
+      },
+      "2024": {
+        "world_cad_thousands": 723061133.0,
+        "us_cad_thousands": 548050985.9,
+        "non_us_cad_thousands": 175010147.10000002,
+        "us_share": 0.7579594046579737,
+        "destination_hhi": 0.5787407312458709,
+        "destination_hhi_ex_us": 0.07234564851010279
+      },
+      "2025": {
+        "world_cad_thousands": 719867419.1,
+        "us_cad_thousands": 516061249.5,
+        "non_us_cad_thousands": 203806169.60000002,
+        "us_share": 0.7168837424885757,
+        "destination_hhi": 0.5214427771720211,
+        "destination_hhi_ex_us": 0.09382439348799627
+      }
+    },
+    "matched_Jan_Sep": [
+      {
+        "geo": "Canada",
+        "year": 2025,
+        "world_cad_thousands": 535269739,
+        "us_cad_thousands": 392271318,
+        "non_us_cad_thousands": 142998421,
+        "us_share": 0.7328479258566867
+      },
+      {
+        "geo": "Canada",
+        "year": 2026,
+        "world_cad_thousands": 596864815,
+        "us_cad_thousands": 405758426,
+        "non_us_cad_thousands": 191106389,
+        "us_share": 0.6798162930746722
+      }
+    ],
+    "share_decomposition_2024_25_pp": {
+      "within_pp": -3.2115196939855863,
+      "composition_pp": -0.8960465090627764,
+      "net_pp": -4.1075662030483615
+    },
+    "energy_net_pp": -1.6420661388004265
+  },
+  "max_differences": {
+    "annual": {
+      "world_cad_thousands": 0.0,
+      "us_cad_thousands": 0.0,
+      "non_us_cad_thousands": 2.9802322387695312e-08,
+      "us_share": 1.1102230246251565e-16,
+      "destination_hhi": 4.440892098500626e-16,
+      "destination_hhi_ex_us": 4.440892098500626e-16
+    },
+    "monthly_all_product": {
+      "world_cad_thousands": 0.0,
+      "us_cad_thousands": 0.0,
+      "non_us_cad_thousands": 0.0,
+      "us_share": 1.1102230246251565e-16
+    },
+    "matched": {
+      "world_cad_thousands": 0.0,
+      "us_cad_thousands": 0.0,
+      "non_us_cad_thousands": 0.0,
+      "us_share": 1.1102230246251565e-16
+    },
+    "destination": {
+      "VALUE": 0.0,
+      "share": 9.993633524885137e-17
+    }
+  },
+  "benchmarks": {
+    "official_HHI_rows": 464,
+    "GDP_ratios": {
+      "us_exports_to_gdp": 9.831003199012311e-17,
+      "world_exports_to_gdp": 9.367506770274758e-17
+    },
+    "value_added_and_jobs_ratios": {
+      "us_demand_value_added_share": 9.71445146547012e-17,
+      "us_demand_jobs_share": 9.71445146547012e-17
+    },
+    "national_2024_value_added": {
+      "period": "2024",
+      "geo": "Canada",
+      "us_demand_value_added_share": 0.15899820612331464,
+      "us_demand_jobs_share": 0.12051037192935478
+    },
+    "provincial_2022_value_added": [
+      {
+        "period": "2022",
+        "geo": "Ontario",
+        "us_demand_value_added_share": 0.1421243571985935,
+        "us_demand_jobs_share": 0.1298407124867129
+      },
+      {
+        "period": "2022",
+        "geo": "Saskatchewan",
+        "us_demand_value_added_share": 0.24976204426281795,
+        "us_demand_jobs_share": 0.09814675690881343
+      },
+      {
+        "period": "2022",
+        "geo": "Alberta",
+        "us_demand_value_added_share": 0.33709526264477785,
+        "us_demand_jobs_share": 0.14254118317607628
+      }
+    ]
+  },
+  "HS": {
+    "raw_observations": {
+      "2024": 1292368,
+      "2025": 1264188
+    },
+    "all_HS6_destination_rows": 109482,
+    "non_us_value_change_CAD": 28796022412,
+    "gold_CAD": 13159275914,
+    "crude_CAD": 8235657315,
+    "gold_and_crude_share": 0.7429822398000431,
+    "UK_change_CAD": 18196005261,
+    "UK_unwrought_gold_change_CAD": 17743186361,
+    "scenarios": [
+      {
+        "scope": "all products",
+        "year": 2024,
+        "world_cad": 723061133169.0,
+        "us_cad": 548050985957.0,
+        "non_us_cad": 175010147212.0,
+        "uk_cad": 27509806448.0,
+        "uk_share_non_us": 0.15718977948561902,
+        "hhi_full": 0.5787407310867515,
+        "hhi_ex_us": 0.07234564827948904
+      },
+      {
+        "scope": "all products",
+        "year": 2025,
+        "world_cad": 719867419158.0,
+        "us_cad": 516061249534.0,
+        "non_us_cad": 203806169624.0,
+        "uk_cad": 45705811709.0,
+        "uk_share_non_us": 0.2242611781248929,
+        "hhi_full": 0.5214427771627921,
+        "hhi_ex_us": 0.0938243935542113
+      },
+      {
+        "scope": "excluding HS 710812",
+        "year": 2024,
+        "world_cad": 685173279504.0,
+        "us_cad": 540071423371.0,
+        "non_us_cad": 145101856133.0,
+        "uk_cad": 5261018579.0,
+        "uk_share_non_us": 0.036257417508000475,
+        "hhi_full": 0.6243632179826428,
+        "hhi_ex_us": 0.06829530256684768
+      },
+      {
+        "scope": "excluding HS 710812",
+        "year": 2025,
+        "world_cad": 667714030627.0,
+        "us_cad": 506975427996.0,
+        "non_us_cad": 160738602631.0,
+        "uk_cad": 5713837479.0,
+        "uk_share_non_us": 0.03554738802922772,
+        "hhi_full": 0.5805897298204519,
+        "hhi_ex_us": 0.07072122991780275
+      },
+      {
+        "scope": "excluding chapter 71",
+        "year": 2024,
+        "world_cad": 677737018866.0,
+        "us_cad": 535637833377.0,
+        "non_us_cad": 142099185489.0,
+        "uk_cad": 5253095184.0,
+        "uk_share_non_us": 0.03696780643691055,
+        "hhi_full": 0.6277155074718901,
+        "hhi_ex_us": 0.0702789614980146
+      },
+      {
+        "scope": "excluding chapter 71",
+        "year": 2025,
+        "world_cad": 658792519346.0,
+        "us_cad": 501228716801.0,
+        "non_us_cad": 157563802545.0,
+        "uk_cad": 5291673840.0,
+        "uk_share_non_us": 0.03358432428341976,
+        "hhi_full": 0.583008702307775,
+        "hhi_ex_us": 0.0725024578038568
+      }
+    ],
+    "scenario_differences": {
+      "world_cad": 0.0,
+      "us_cad": 0.0,
+      "non_us_cad": 0.0,
+      "uk_cad": 0.0,
+      "uk_share_non_us": 7.632783294297951e-17,
+      "hhi_full": 1.1102230246251565e-16,
+      "hhi_ex_us": 8.326672684688674e-17
+    },
+    "physical": [
+      {
+        "year": 2024,
+        "market": "GB",
+        "hs8": "71081210",
+        "unit": "GRM",
+        "quantity": 207200821,
+        "unit_value_cad": 107.37789436172166
+      },
+      {
+        "year": 2024,
+        "market": "CN",
+        "hs8": "27090010",
+        "unit": "MTQ",
+        "quantity": 4074211,
+        "unit_value_cad": 600.9681528521719
+      },
+      {
+        "year": 2025,
+        "market": "GB",
+        "hs8": "71081210",
+        "unit": "GRM",
+        "quantity": 252130600,
+        "unit_value_cad": 158.61605585755953
+      },
+      {
+        "year": 2025,
+        "market": "CN",
+        "hs8": "27090010",
+        "unit": "MTQ",
+        "quantity": 12655745,
+        "unit_value_cad": 543.5307975942941
+      }
+    ]
+  },
+  "model": {
+    "input_rows": 1454,
+    "fit": {
+      "n": 1454,
+      "groups": 108,
+      "rank": 371,
+      "fixed_rank": 368,
+      "rss": 194.70246376666435,
+      "r_squared": 0.5186036429827199,
+      "adjusted_r_squared": 0.3541376669011005,
+      "within_r_squared": 0.008620233014143608,
+      "webb": {
+        "p_at_zero": 0.7174,
+        "bounds": [
+          -0.6048669586398405,
+          1.0525399064519916
+        ],
+        "independent_literal_draws": 64,
+        "max_t_score_difference": 5.329070518200751e-15
+      }
+    },
+    "input_max_differences": {
+      "lag_exports_cad": 4.76837158203125e-07,
+      "hhi_ex_us": 4.440892098500626e-16,
+      "log_lag_exports": 3.552713678800501e-15,
+      "lag_us_share": 1.1102230246251565e-16,
+      "absolute_growth": 4.440892098500626e-16,
+      "signed_growth": 4.440892098500626e-16,
+      "downside": 2.220446049250313e-16
+    },
+    "primary_inference_rows": 12,
+    "robustness_inference_rows": 312,
+    "primary_max_differences": {
+      "coefficient": 4.6629367034256575e-15,
+      "standard_error": 2.7755575615628914e-15,
+      "ci_low": 1.099120794378905e-14,
+      "ci_high": 6.439293542825908e-15,
+      "p_value": 1.9984014443252818e-14,
+      "t": 2.8255175976710234e-14,
+      "df": 0.0
+    },
+    "robustness_max_differences": {
+      "coefficient": 1.8263168755083825e-14,
+      "standard_error": 1.2490009027033011e-14,
+      "ci_low": 4.7128967395337895e-14,
+      "ci_high": 2.864375403532904e-14,
+      "p_value": 1.794120407794253e-13,
+      "t": 2.320366121466577e-13,
+      "df": 0.0
+    }
+  }
+}

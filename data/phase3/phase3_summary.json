@@ -1,0 +1,316 @@
+{
+  "pinned_vintage": "20261119T001720Z-cacfc394",
+  "phase2_manifest_sha256": "f414eb56178dad3a631a61805bd993be9d7845ab0b6d81381af952e424e91f8a",
+  "supplement_manifest_sha256": "907a88d79b926004fb5c5e87ee8e30021806975a1c406abd65a9d21b909f0308",
+  "trade_checks": {
+    "annual": {
+      "destination": {
+        "groups": 2912,
+        "comparable": 2912,
+        "within_rounding": 2912,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 1.1999999999534339,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "world_rows_missing_numeric": 0,
+      "us_rows_missing_numeric": 0,
+      "world_zero": 92,
+      "us_greater_than_world": 0,
+      "groups_with_unallocated_nonzero": 6,
+      "groups_with_missing_component_value": 0,
+      "groups_missing_expected_partner_rows": 0,
+      "groups_with_suppressed_or_unreliable_components": 0,
+      "groups_with_negative_components": 0,
+      "product_sections": {
+        "groups": 58016,
+        "comparable": 58016,
+        "within_rounding": 58016,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 0.39999999990686774,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "product_sections_world_us": {
+        "groups": 448,
+        "comparable": 448,
+        "within_rounding": 448,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 0.30000000074505806,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "by_section": {
+        "C11": {
+          "groups": 224,
+          "world_nonzero": 221
+        },
+        "C12": {
+          "groups": 224,
+          "world_nonzero": 189
+        },
+        "C13": {
+          "groups": 224,
+          "world_nonzero": 223
+        },
+        "C14": {
+          "groups": 224,
+          "world_nonzero": 224
+        },
+        "C15": {
+          "groups": 224,
+          "world_nonzero": 211
+        },
+        "C16": {
+          "groups": 224,
+          "world_nonzero": 215
+        },
+        "C17": {
+          "groups": 224,
+          "world_nonzero": 219
+        },
+        "C18": {
+          "groups": 224,
+          "world_nonzero": 223
+        },
+        "C19": {
+          "groups": 224,
+          "world_nonzero": 210
+        },
+        "C21": {
+          "groups": 224,
+          "world_nonzero": 213
+        },
+        "C22": {
+          "groups": 224,
+          "world_nonzero": 224
+        },
+        "C23": {
+          "groups": 224,
+          "world_nonzero": 224
+        },
+        "TOTAL": {
+          "groups": 224,
+          "world_nonzero": 224
+        }
+      }
+    },
+    "monthly_recent": {
+      "destination": {
+        "groups": 3822,
+        "comparable": 3822,
+        "within_rounding": 3822,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 5.0,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "world_rows_missing_numeric": 0,
+      "us_rows_missing_numeric": 0,
+      "world_zero": 389,
+      "us_greater_than_world": 0,
+      "groups_with_unallocated_nonzero": 3023,
+      "groups_with_missing_component_value": 0,
+      "groups_missing_expected_partner_rows": 0,
+      "groups_with_suppressed_or_unreliable_components": 0,
+      "groups_with_negative_components": 0,
+      "product_sections": {
+        "groups": 8526,
+        "comparable": 8526,
+        "within_rounding": 8526,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 3.0,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "product_sections_world_us": {
+        "groups": 588,
+        "comparable": 588,
+        "within_rounding": 588,
+        "outside_rounding": 0,
+        "unavailable": 0,
+        "max_abs_gap_cad_thousands": 3.0,
+        "median_abs_gap_outside_rounding_cad_thousands": null
+      },
+      "by_section": {
+        "C11": {
+          "groups": 294,
+          "world_nonzero": 247
+        },
+        "C12": {
+          "groups": 294,
+          "world_nonzero": 215
+        },
+        "C13": {
+          "groups": 294,
+          "world_nonzero": 277
+        },
+        "C14": {
+          "groups": 294,
+          "world_nonzero": 275
+        },
+        "C15": {
+          "groups": 294,
+          "world_nonzero": 248
+        },
+        "C16": {
+          "groups": 294,
+          "world_nonzero": 256
+        },
+        "C17": {
+          "groups": 294,
+          "world_nonzero": 266
+        },
+        "C18": {
+          "groups": 294,
+          "world_nonzero": 263
+        },
+        "C19": {
+          "groups": 294,
+          "world_nonzero": 261
+        },
+        "C21": {
+          "groups": 294,
+          "world_nonzero": 246
+        },
+        "C22": {
+          "groups": 294,
+          "world_nonzero": 292
+        },
+        "C23": {
+          "groups": 294,
+          "world_nonzero": 293
+        },
+        "TOTAL": {
+          "groups": 294,
+          "world_nonzero": 294
+        }
+      }
+    }
+  },
+  "reconciliation_2020": {
+    "active": {
+      "comparisons": 5096,
+      "matched_numeric": 5096,
+      "outside": 228,
+      "max_abs_cad_thousands": 129574.30000001192
+    },
+    "archived": {
+      "comparisons": 5096,
+      "matched_numeric": 5096,
+      "outside": 0,
+      "max_abs_cad_thousands": 3.599999999999909
+    },
+    "cimt_annual_active_matches": 28,
+    "cimt_annual_archived_matches": 21,
+    "cimt_monthly_active_matches": 183,
+    "cimt_monthly_archived_matches": 336,
+    "monthly_active_archived_equal": 183,
+    "monthly_benchmark_rows": 336,
+    "annual_benchmark_rows": 28,
+    "active_mismatch_geographies": {
+      "Alberta": 18,
+      "British Columbia": 27,
+      "Canada": 52,
+      "Manitoba": 18,
+      "New Brunswick": 3,
+      "Nova Scotia": 9,
+      "Nunavut": 9,
+      "Ontario": 42,
+      "Quebec": 29,
+      "Saskatchewan": 17,
+      "Yukon": 4
+    },
+    "active_mismatch_sections": {
+      "C11": 24,
+      "C12": 7,
+      "C13": 12,
+      "C14": 15,
+      "C15": 14,
+      "C16": 20,
+      "C17": 19,
+      "C18": 13,
+      "C19": 16,
+      "C21": 8,
+      "C22": 22,
+      "C23": 6,
+      "TOTAL": 52
+    },
+    "active_mismatch_partners": {
+      "All countries": 82,
+      "Australia": 4,
+      "China": 10,
+      "India": 4,
+      "Italy": 6,
+      "Japan": 5,
+      "Mexico": 4,
+      "Netherlands": 4,
+      "Norway": 6,
+      "Saudi Arabia": 4,
+      "Singapore": 4,
+      "Spain": 4,
+      "Switzerland": 8,
+      "Taiwan": 4,
+      "United Kingdom": 7,
+      "United States": 72
+    }
+  },
+  "files": {
+    "annual_exposure.csv": {
+      "rows": 2912,
+      "sha256": "92f0f47740abb69dd025c9b92597b811eb1fbae91c5bc6cc2a9fa87ec90462ab"
+    },
+    "destination_hhi_benchmark.csv": {
+      "rows": 448,
+      "sha256": "76fbd48756b10eeb10e9ccf3ef47530d3597288a2260087614242ce3ba0c9955"
+    },
+    "geographic_reconciliation.csv": {
+      "rows": 962,
+      "sha256": "4aa711ca79daa115ebc794ebf5a50311d617737869cb1d359b43f88b2be9d513"
+    },
+    "matched_monthly_ytd.csv": {
+      "rows": 28,
+      "sha256": "06e2424573a5404385bc8211d3395b694d0025c8c74f0730153f5c83c215d047"
+    },
+    "monthly_exposure.csv": {
+      "rows": 3822,
+      "sha256": "4d70e0cf6f99b483918def1ce210c5f44a2a89ca8218a8b3e914df25c7aa79dd"
+    },
+    "national_exposure_decomposition.csv": {
+      "rows": 26,
+      "sha256": "c592cd85f29d9c2b73044b42588ba8ddd35ef869656f39078fa790081b15f1fe"
+    },
+    "national_non_us_destinations.csv": {
+      "rows": 4112,
+      "sha256": "4c76af7287ba43459a1992c06e3b1692a6834a42d128aebd688c9107c7b049ba"
+    },
+    "panel_coverage.csv": {
+      "rows": 2212,
+      "sha256": "177eecdd4832f624c8069bbd7ab10b2056e668a20aec06574ed2e13735d18e7e"
+    },
+    "provincial_export_intensity.csv": {
+      "rows": 208,
+      "sha256": "bcebc07166cb94282d9fd3b609268dcf45bb72dfa73c3bb15cd83a068e0c80c3"
+    },
+    "reconciliation_2020.csv": {
+      "rows": 5096,
+      "sha256": "6d6da0d90444dc91b157e021608954e2efd91a9c0a20d1965dc1dc2616717f06"
+    },
+    "reconciliation_2020_archived.csv": {
+      "rows": 5096,
+      "sha256": "58f1373675d0c6984748b1267263ee43f61e184fbbc7d991dc988ed245dfb437"
+    },
+    "reconciliation_2020_cimt_months.csv": {
+      "rows": 336,
+      "sha256": "bb1ffa674c5705a82dfac12e2b2410a15e683c85f93cd453bc326524945579f0"
+    },
+    "reconciliation_2020_cimt_totals.csv": {
+      "rows": 28,
+      "sha256": "dbce0bd0ab2a3de59cd1dad89f4c0a9a86bfdbe9a4c8f186897c8b3cd54f293f"
+    },
+    "value_added_and_jobs_benchmarks.csv": {
+      "rows": 224,
+      "sha256": "746b4f888af2123bc27f5f834b85bd942bf212cc02b7f737ef94cef78c557b0c"
+    }
+  }
+}

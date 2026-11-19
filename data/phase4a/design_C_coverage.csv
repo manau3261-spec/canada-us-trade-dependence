@@ -1,0 +1,1541 @@
+geo,product,t,lagged_hhi_available,start_exports_positive,end_exports_positive,usable
+Alberta,C11,2011,True,True,True,True
+Alberta,C11,2012,True,True,True,True
+Alberta,C11,2013,True,True,True,True
+Alberta,C11,2014,True,True,True,True
+Alberta,C11,2015,True,True,True,True
+Alberta,C11,2016,True,True,True,True
+Alberta,C11,2017,True,True,True,True
+Alberta,C11,2018,True,True,True,True
+Alberta,C11,2019,True,True,True,True
+Alberta,C11,2020,True,True,True,True
+Alberta,C11,2021,True,True,True,True
+Alberta,C11,2022,True,True,True,True
+Alberta,C11,2023,True,True,True,True
+Alberta,C11,2024,True,True,True,True
+Alberta,C12,2011,True,True,True,True
+Alberta,C12,2012,True,True,True,True
+Alberta,C12,2013,True,True,True,True
+Alberta,C12,2014,True,True,True,True
+Alberta,C12,2015,True,True,True,True
+Alberta,C12,2016,True,True,True,True
+Alberta,C12,2017,True,True,True,True
+Alberta,C12,2018,True,True,True,True
+Alberta,C12,2019,True,True,True,True
+Alberta,C12,2020,True,True,True,True
+Alberta,C12,2021,True,True,True,True
+Alberta,C12,2022,True,True,True,True
+Alberta,C12,2023,True,True,True,True
+Alberta,C12,2024,True,True,True,True
+Alberta,C13,2011,True,True,True,True
+Alberta,C13,2012,True,True,True,True
+Alberta,C13,2013,True,True,True,True
+Alberta,C13,2014,True,True,True,True
+Alberta,C13,2015,True,True,True,True
+Alberta,C13,2016,True,True,True,True
+Alberta,C13,2017,True,True,True,True
+Alberta,C13,2018,True,True,True,True
+Alberta,C13,2019,True,True,True,True
+Alberta,C13,2020,True,True,True,True
+Alberta,C13,2021,True,True,True,True
+Alberta,C13,2022,True,True,True,True
+Alberta,C13,2023,True,True,True,True
+Alberta,C13,2024,True,True,True,True
+Alberta,C14,2011,True,True,True,True
+Alberta,C14,2012,True,True,True,True
+Alberta,C14,2013,True,True,True,True
+Alberta,C14,2014,True,True,True,True
+Alberta,C14,2015,True,True,True,True
+Alberta,C14,2016,True,True,True,True
+Alberta,C14,2017,True,True,True,True
+Alberta,C14,2018,True,True,True,True
+Alberta,C14,2019,True,True,True,True
+Alberta,C14,2020,True,True,True,True
+Alberta,C14,2021,True,True,True,True
+Alberta,C14,2022,True,True,True,True
+Alberta,C14,2023,True,True,True,True
+Alberta,C14,2024,True,True,True,True
+Alberta,C15,2011,True,True,True,True
+Alberta,C15,2012,True,True,True,True
+Alberta,C15,2013,True,True,True,True
+Alberta,C15,2014,True,True,True,True
+Alberta,C15,2015,True,True,True,True
+Alberta,C15,2016,True,True,True,True
+Alberta,C15,2017,True,True,True,True
+Alberta,C15,2018,True,True,True,True
+Alberta,C15,2019,True,True,True,True
+Alberta,C15,2020,True,True,True,True
+Alberta,C15,2021,True,True,True,True
+Alberta,C15,2022,True,True,True,True
+Alberta,C15,2023,True,True,True,True
+Alberta,C15,2024,True,True,True,True
+Alberta,C16,2011,True,True,True,True
+Alberta,C16,2012,True,True,True,True
+Alberta,C16,2013,True,True,True,True
+Alberta,C16,2014,True,True,True,True
+Alberta,C16,2015,True,True,True,True
+Alberta,C16,2016,True,True,True,True
+Alberta,C16,2017,True,True,True,True
+Alberta,C16,2018,True,True,True,True
+Alberta,C16,2019,True,True,True,True
+Alberta,C16,2020,True,True,True,True
+Alberta,C16,2021,True,True,True,True
+Alberta,C16,2022,True,True,True,True
+Alberta,C16,2023,True,True,True,True
+Alberta,C16,2024,True,True,True,True
+Alberta,C17,2011,True,True,True,True
+Alberta,C17,2012,True,True,True,True
+Alberta,C17,2013,True,True,True,True
+Alberta,C17,2014,True,True,True,True
+Alberta,C17,2015,True,True,True,True
+Alberta,C17,2016,True,True,True,True
+Alberta,C17,2017,True,True,True,True
+Alberta,C17,2018,True,True,True,True
+Alberta,C17,2019,True,True,True,True
+Alberta,C17,2020,True,True,True,True
+Alberta,C17,2021,True,True,True,True
+Alberta,C17,2022,True,True,True,True
+Alberta,C17,2023,True,True,True,True
+Alberta,C17,2024,True,True,True,True
+Alberta,C18,2011,True,True,True,True
+Alberta,C18,2012,True,True,True,True
+Alberta,C18,2013,True,True,True,True
+Alberta,C18,2014,True,True,True,True
+Alberta,C18,2015,True,True,True,True
+Alberta,C18,2016,True,True,True,True
+Alberta,C18,2017,True,True,True,True
+Alberta,C18,2018,True,True,True,True
+Alberta,C18,2019,True,True,True,True
+Alberta,C18,2020,True,True,True,True
+Alberta,C18,2021,True,True,True,True
+Alberta,C18,2022,True,True,True,True
+Alberta,C18,2023,True,True,True,True
+Alberta,C18,2024,True,True,True,True
+Alberta,C19,2011,True,True,True,True
+Alberta,C19,2012,True,True,True,True
+Alberta,C19,2013,True,True,True,True
+Alberta,C19,2014,True,True,True,True
+Alberta,C19,2015,True,True,True,True
+Alberta,C19,2016,True,True,True,True
+Alberta,C19,2017,True,True,True,True
+Alberta,C19,2018,True,True,True,True
+Alberta,C19,2019,True,True,True,True
+Alberta,C19,2020,True,True,True,True
+Alberta,C19,2021,True,True,True,True
+Alberta,C19,2022,True,True,True,True
+Alberta,C19,2023,True,True,True,True
+Alberta,C19,2024,True,True,True,True
+Alberta,C21,2011,True,True,True,True
+Alberta,C21,2012,True,True,True,True
+Alberta,C21,2013,True,True,True,True
+Alberta,C21,2014,True,True,True,True
+Alberta,C21,2015,True,True,True,True
+Alberta,C21,2016,True,True,True,True
+Alberta,C21,2017,True,True,True,True
+Alberta,C21,2018,True,True,True,True
+Alberta,C21,2019,True,True,True,True
+Alberta,C21,2020,True,True,True,True
+Alberta,C21,2021,True,True,True,True
+Alberta,C21,2022,True,True,True,True
+Alberta,C21,2023,True,True,True,True
+Alberta,C21,2024,True,True,True,True
+Alberta,C22,2011,True,True,True,True
+Alberta,C22,2012,True,True,True,True
+Alberta,C22,2013,True,True,True,True
+Alberta,C22,2014,True,True,True,True
+Alberta,C22,2015,True,True,True,True
+Alberta,C22,2016,True,True,True,True
+Alberta,C22,2017,True,True,True,True
+Alberta,C22,2018,True,True,True,True
+Alberta,C22,2019,True,True,True,True
+Alberta,C22,2020,True,True,True,True
+Alberta,C22,2021,True,True,True,True
+Alberta,C22,2022,True,True,True,True
+Alberta,C22,2023,True,True,True,True
+Alberta,C22,2024,True,True,True,True
+British Columbia,C11,2011,True,True,True,True
+British Columbia,C11,2012,True,True,True,True
+British Columbia,C11,2013,True,True,True,True
+British Columbia,C11,2014,True,True,True,True
+British Columbia,C11,2015,True,True,True,True
+British Columbia,C11,2016,True,True,True,True
+British Columbia,C11,2017,True,True,True,True
+British Columbia,C11,2018,True,True,True,True
+British Columbia,C11,2019,True,True,True,True
+British Columbia,C11,2020,True,True,True,True
+British Columbia,C11,2021,True,True,True,True
+British Columbia,C11,2022,True,True,True,True
+British Columbia,C11,2023,True,True,True,True
+British Columbia,C11,2024,True,True,True,True
+British Columbia,C12,2011,True,True,True,True
+British Columbia,C12,2012,True,True,True,True
+British Columbia,C12,2013,True,True,True,True
+British Columbia,C12,2014,True,True,True,True
+British Columbia,C12,2015,True,True,True,True
+British Columbia,C12,2016,True,True,True,True
+British Columbia,C12,2017,True,True,True,True
+British Columbia,C12,2018,True,True,True,True
+British Columbia,C12,2019,True,True,True,True
+British Columbia,C12,2020,True,True,True,True
+British Columbia,C12,2021,True,True,True,True
+British Columbia,C12,2022,True,True,True,True
+British Columbia,C12,2023,True,True,True,True
+British Columbia,C12,2024,True,True,True,True
+British Columbia,C13,2011,True,True,True,True
+British Columbia,C13,2012,True,True,True,True
+British Columbia,C13,2013,True,True,True,True
+British Columbia,C13,2014,True,True,True,True
+British Columbia,C13,2015,True,True,True,True
+British Columbia,C13,2016,True,True,True,True
+British Columbia,C13,2017,True,True,True,True
+British Columbia,C13,2018,True,True,True,True
+British Columbia,C13,2019,True,True,True,True
+British Columbia,C13,2020,True,True,True,True
+British Columbia,C13,2021,False,True,True,False
+British Columbia,C13,2022,True,True,True,True
+British Columbia,C13,2023,True,True,True,True
+British Columbia,C13,2024,True,True,True,True
+British Columbia,C14,2011,True,True,True,True
+British Columbia,C14,2012,True,True,True,True
+British Columbia,C14,2013,True,True,True,True
+British Columbia,C14,2014,True,True,True,True
+British Columbia,C14,2015,True,True,True,True
+British Columbia,C14,2016,True,True,True,True
+British Columbia,C14,2017,True,True,True,True
+British Columbia,C14,2018,True,True,True,True
+British Columbia,C14,2019,True,True,True,True
+British Columbia,C14,2020,True,True,True,True
+British Columbia,C14,2021,True,True,True,True
+British Columbia,C14,2022,True,True,True,True
+British Columbia,C14,2023,True,True,True,True
+British Columbia,C14,2024,True,True,True,True
+British Columbia,C15,2011,True,True,True,True
+British Columbia,C15,2012,True,True,True,True
+British Columbia,C15,2013,True,True,True,True
+British Columbia,C15,2014,True,True,True,True
+British Columbia,C15,2015,True,True,True,True
+British Columbia,C15,2016,True,True,True,True
+British Columbia,C15,2017,True,True,True,True
+British Columbia,C15,2018,True,True,True,True
+British Columbia,C15,2019,True,True,True,True
+British Columbia,C15,2020,True,True,True,True
+British Columbia,C15,2021,True,True,True,True
+British Columbia,C15,2022,True,True,True,True
+British Columbia,C15,2023,True,True,True,True
+British Columbia,C15,2024,True,True,True,True
+British Columbia,C16,2011,True,True,True,True
+British Columbia,C16,2012,True,True,True,True
+British Columbia,C16,2013,True,True,True,True
+British Columbia,C16,2014,True,True,True,True
+British Columbia,C16,2015,True,True,True,True
+British Columbia,C16,2016,True,True,True,True
+British Columbia,C16,2017,True,True,True,True
+British Columbia,C16,2018,True,True,True,True
+British Columbia,C16,2019,True,True,True,True
+British Columbia,C16,2020,True,True,True,True
+British Columbia,C16,2021,True,True,True,True
+British Columbia,C16,2022,True,True,True,True
+British Columbia,C16,2023,True,True,True,True
+British Columbia,C16,2024,True,True,True,True
+British Columbia,C17,2011,True,True,True,True
+British Columbia,C17,2012,True,True,True,True
+British Columbia,C17,2013,True,True,True,True
+British Columbia,C17,2014,True,True,True,True
+British Columbia,C17,2015,True,True,True,True
+British Columbia,C17,2016,True,True,True,True
+British Columbia,C17,2017,True,True,True,True
+British Columbia,C17,2018,True,True,True,True
+British Columbia,C17,2019,True,True,True,True
+British Columbia,C17,2020,True,True,True,True
+British Columbia,C17,2021,True,True,True,True
+British Columbia,C17,2022,True,True,True,True
+British Columbia,C17,2023,True,True,True,True
+British Columbia,C17,2024,True,True,True,True
+British Columbia,C18,2011,True,True,True,True
+British Columbia,C18,2012,True,True,True,True
+British Columbia,C18,2013,True,True,True,True
+British Columbia,C18,2014,True,True,True,True
+British Columbia,C18,2015,True,True,True,True
+British Columbia,C18,2016,True,True,True,True
+British Columbia,C18,2017,True,True,True,True
+British Columbia,C18,2018,True,True,True,True
+British Columbia,C18,2019,True,True,True,True
+British Columbia,C18,2020,True,True,True,True
+British Columbia,C18,2021,True,True,True,True
+British Columbia,C18,2022,True,True,True,True
+British Columbia,C18,2023,True,True,True,True
+British Columbia,C18,2024,True,True,True,True
+British Columbia,C19,2011,True,True,True,True
+British Columbia,C19,2012,True,True,True,True
+British Columbia,C19,2013,True,True,True,True
+British Columbia,C19,2014,True,True,True,True
+British Columbia,C19,2015,True,True,True,True
+British Columbia,C19,2016,True,True,True,True
+British Columbia,C19,2017,True,True,True,True
+British Columbia,C19,2018,True,True,True,True
+British Columbia,C19,2019,True,True,True,True
+British Columbia,C19,2020,True,True,True,True
+British Columbia,C19,2021,True,True,True,True
+British Columbia,C19,2022,True,True,True,True
+British Columbia,C19,2023,True,True,True,True
+British Columbia,C19,2024,True,True,True,True
+British Columbia,C21,2011,True,True,True,True
+British Columbia,C21,2012,True,True,True,True
+British Columbia,C21,2013,True,True,True,True
+British Columbia,C21,2014,True,True,True,True
+British Columbia,C21,2015,True,True,True,True
+British Columbia,C21,2016,True,True,True,True
+British Columbia,C21,2017,True,True,True,True
+British Columbia,C21,2018,True,True,True,True
+British Columbia,C21,2019,True,True,True,True
+British Columbia,C21,2020,True,True,True,True
+British Columbia,C21,2021,True,True,True,True
+British Columbia,C21,2022,True,True,True,True
+British Columbia,C21,2023,True,True,True,True
+British Columbia,C21,2024,True,True,True,True
+British Columbia,C22,2011,True,True,True,True
+British Columbia,C22,2012,True,True,True,True
+British Columbia,C22,2013,True,True,True,True
+British Columbia,C22,2014,True,True,True,True
+British Columbia,C22,2015,True,True,True,True
+British Columbia,C22,2016,True,True,True,True
+British Columbia,C22,2017,True,True,True,True
+British Columbia,C22,2018,True,True,True,True
+British Columbia,C22,2019,True,True,True,True
+British Columbia,C22,2020,True,True,True,True
+British Columbia,C22,2021,True,True,True,True
+British Columbia,C22,2022,True,True,True,True
+British Columbia,C22,2023,True,True,True,True
+British Columbia,C22,2024,True,True,True,True
+Manitoba,C11,2011,True,True,True,True
+Manitoba,C11,2012,True,True,True,True
+Manitoba,C11,2013,True,True,True,True
+Manitoba,C11,2014,True,True,True,True
+Manitoba,C11,2015,True,True,True,True
+Manitoba,C11,2016,True,True,True,True
+Manitoba,C11,2017,True,True,True,True
+Manitoba,C11,2018,True,True,True,True
+Manitoba,C11,2019,True,True,True,True
+Manitoba,C11,2020,True,True,True,True
+Manitoba,C11,2021,True,True,True,True
+Manitoba,C11,2022,True,True,True,True
+Manitoba,C11,2023,True,True,True,True
+Manitoba,C11,2024,True,True,True,True
+Manitoba,C12,2011,True,True,False,False
+Manitoba,C12,2012,True,False,True,False
+Manitoba,C12,2013,False,True,True,False
+Manitoba,C12,2014,True,True,True,True
+Manitoba,C12,2015,True,True,True,True
+Manitoba,C12,2016,False,True,True,False
+Manitoba,C12,2017,False,True,True,False
+Manitoba,C12,2018,True,True,True,True
+Manitoba,C12,2019,False,True,True,False
+Manitoba,C12,2020,False,True,False,False
+Manitoba,C12,2021,False,False,True,False
+Manitoba,C12,2022,False,True,True,False
+Manitoba,C12,2023,False,True,True,False
+Manitoba,C12,2024,False,True,True,False
+Manitoba,C13,2011,True,True,True,True
+Manitoba,C13,2012,True,True,True,True
+Manitoba,C13,2013,True,True,True,True
+Manitoba,C13,2014,True,True,True,True
+Manitoba,C13,2015,True,True,True,True
+Manitoba,C13,2016,True,True,True,True
+Manitoba,C13,2017,True,True,True,True
+Manitoba,C13,2018,True,True,True,True
+Manitoba,C13,2019,True,True,True,True
+Manitoba,C13,2020,True,True,True,True
+Manitoba,C13,2021,True,True,True,True
+Manitoba,C13,2022,True,True,True,True
+Manitoba,C13,2023,True,True,True,True
+Manitoba,C13,2024,True,True,True,True
+Manitoba,C14,2011,True,True,True,True
+Manitoba,C14,2012,True,True,True,True
+Manitoba,C14,2013,True,True,True,True
+Manitoba,C14,2014,True,True,True,True
+Manitoba,C14,2015,True,True,True,True
+Manitoba,C14,2016,True,True,True,True
+Manitoba,C14,2017,True,True,True,True
+Manitoba,C14,2018,True,True,True,True
+Manitoba,C14,2019,True,True,True,True
+Manitoba,C14,2020,True,True,True,True
+Manitoba,C14,2021,True,True,True,True
+Manitoba,C14,2022,True,True,True,True
+Manitoba,C14,2023,True,True,True,True
+Manitoba,C14,2024,True,True,True,True
+Manitoba,C15,2011,True,True,True,True
+Manitoba,C15,2012,True,True,True,True
+Manitoba,C15,2013,True,True,True,True
+Manitoba,C15,2014,True,True,True,True
+Manitoba,C15,2015,True,True,True,True
+Manitoba,C15,2016,True,True,True,True
+Manitoba,C15,2017,True,True,True,True
+Manitoba,C15,2018,True,True,True,True
+Manitoba,C15,2019,True,True,True,True
+Manitoba,C15,2020,True,True,True,True
+Manitoba,C15,2021,True,True,True,True
+Manitoba,C15,2022,True,True,True,True
+Manitoba,C15,2023,True,True,True,True
+Manitoba,C15,2024,True,True,True,True
+Manitoba,C16,2011,True,True,True,True
+Manitoba,C16,2012,True,True,True,True
+Manitoba,C16,2013,True,True,True,True
+Manitoba,C16,2014,True,True,True,True
+Manitoba,C16,2015,True,True,True,True
+Manitoba,C16,2016,True,True,True,True
+Manitoba,C16,2017,True,True,True,True
+Manitoba,C16,2018,True,True,True,True
+Manitoba,C16,2019,True,True,True,True
+Manitoba,C16,2020,True,True,True,True
+Manitoba,C16,2021,True,True,True,True
+Manitoba,C16,2022,True,True,True,True
+Manitoba,C16,2023,True,True,True,True
+Manitoba,C16,2024,True,True,True,True
+Manitoba,C17,2011,True,True,True,True
+Manitoba,C17,2012,True,True,True,True
+Manitoba,C17,2013,True,True,True,True
+Manitoba,C17,2014,True,True,True,True
+Manitoba,C17,2015,True,True,True,True
+Manitoba,C17,2016,True,True,True,True
+Manitoba,C17,2017,True,True,True,True
+Manitoba,C17,2018,True,True,True,True
+Manitoba,C17,2019,True,True,True,True
+Manitoba,C17,2020,True,True,True,True
+Manitoba,C17,2021,True,True,True,True
+Manitoba,C17,2022,True,True,True,True
+Manitoba,C17,2023,True,True,True,True
+Manitoba,C17,2024,True,True,True,True
+Manitoba,C18,2011,True,True,True,True
+Manitoba,C18,2012,True,True,True,True
+Manitoba,C18,2013,True,True,True,True
+Manitoba,C18,2014,True,True,True,True
+Manitoba,C18,2015,True,True,True,True
+Manitoba,C18,2016,True,True,True,True
+Manitoba,C18,2017,True,True,True,True
+Manitoba,C18,2018,True,True,True,True
+Manitoba,C18,2019,True,True,True,True
+Manitoba,C18,2020,True,True,True,True
+Manitoba,C18,2021,True,True,True,True
+Manitoba,C18,2022,True,True,True,True
+Manitoba,C18,2023,True,True,True,True
+Manitoba,C18,2024,True,True,True,True
+Manitoba,C19,2011,True,True,True,True
+Manitoba,C19,2012,True,True,True,True
+Manitoba,C19,2013,True,True,True,True
+Manitoba,C19,2014,True,True,True,True
+Manitoba,C19,2015,True,True,True,True
+Manitoba,C19,2016,True,True,True,True
+Manitoba,C19,2017,True,True,True,True
+Manitoba,C19,2018,True,True,True,True
+Manitoba,C19,2019,True,True,True,True
+Manitoba,C19,2020,True,True,True,True
+Manitoba,C19,2021,True,True,True,True
+Manitoba,C19,2022,True,True,True,True
+Manitoba,C19,2023,True,True,True,True
+Manitoba,C19,2024,True,True,True,True
+Manitoba,C21,2011,True,True,True,True
+Manitoba,C21,2012,True,True,True,True
+Manitoba,C21,2013,True,True,True,True
+Manitoba,C21,2014,True,True,True,True
+Manitoba,C21,2015,True,True,True,True
+Manitoba,C21,2016,True,True,True,True
+Manitoba,C21,2017,True,True,True,True
+Manitoba,C21,2018,True,True,True,True
+Manitoba,C21,2019,True,True,True,True
+Manitoba,C21,2020,True,True,True,True
+Manitoba,C21,2021,True,True,True,True
+Manitoba,C21,2022,True,True,True,True
+Manitoba,C21,2023,True,True,True,True
+Manitoba,C21,2024,True,True,True,True
+Manitoba,C22,2011,True,True,True,True
+Manitoba,C22,2012,True,True,True,True
+Manitoba,C22,2013,True,True,True,True
+Manitoba,C22,2014,True,True,True,True
+Manitoba,C22,2015,True,True,True,True
+Manitoba,C22,2016,True,True,True,True
+Manitoba,C22,2017,True,True,True,True
+Manitoba,C22,2018,True,True,True,True
+Manitoba,C22,2019,True,True,True,True
+Manitoba,C22,2020,True,True,True,True
+Manitoba,C22,2021,True,True,True,True
+Manitoba,C22,2022,True,True,True,True
+Manitoba,C22,2023,True,True,True,True
+Manitoba,C22,2024,True,True,True,True
+New Brunswick,C11,2011,True,True,True,True
+New Brunswick,C11,2012,True,True,True,True
+New Brunswick,C11,2013,True,True,True,True
+New Brunswick,C11,2014,True,True,True,True
+New Brunswick,C11,2015,True,True,True,True
+New Brunswick,C11,2016,True,True,True,True
+New Brunswick,C11,2017,True,True,True,True
+New Brunswick,C11,2018,True,True,True,True
+New Brunswick,C11,2019,True,True,True,True
+New Brunswick,C11,2020,True,True,True,True
+New Brunswick,C11,2021,True,True,True,True
+New Brunswick,C11,2022,True,True,True,True
+New Brunswick,C11,2023,True,True,True,True
+New Brunswick,C11,2024,True,True,True,True
+New Brunswick,C12,2011,True,True,True,True
+New Brunswick,C12,2012,True,True,True,True
+New Brunswick,C12,2013,True,True,True,True
+New Brunswick,C12,2014,True,True,True,True
+New Brunswick,C12,2015,True,True,True,True
+New Brunswick,C12,2016,True,True,True,True
+New Brunswick,C12,2017,True,True,True,True
+New Brunswick,C12,2018,True,True,True,True
+New Brunswick,C12,2019,True,True,True,True
+New Brunswick,C12,2020,True,True,True,True
+New Brunswick,C12,2021,True,True,True,True
+New Brunswick,C12,2022,True,True,True,True
+New Brunswick,C12,2023,True,True,True,True
+New Brunswick,C12,2024,True,True,True,True
+New Brunswick,C13,2011,True,True,True,True
+New Brunswick,C13,2012,True,True,True,True
+New Brunswick,C13,2013,True,True,True,True
+New Brunswick,C13,2014,True,True,True,True
+New Brunswick,C13,2015,True,True,True,True
+New Brunswick,C13,2016,True,True,True,True
+New Brunswick,C13,2017,True,True,True,True
+New Brunswick,C13,2018,True,True,True,True
+New Brunswick,C13,2019,True,True,True,True
+New Brunswick,C13,2020,True,True,True,True
+New Brunswick,C13,2021,True,True,True,True
+New Brunswick,C13,2022,True,True,True,True
+New Brunswick,C13,2023,True,True,True,True
+New Brunswick,C13,2024,True,True,True,True
+New Brunswick,C14,2011,True,True,True,True
+New Brunswick,C14,2012,True,True,True,True
+New Brunswick,C14,2013,True,True,True,True
+New Brunswick,C14,2014,True,True,True,True
+New Brunswick,C14,2015,True,True,True,True
+New Brunswick,C14,2016,True,True,True,True
+New Brunswick,C14,2017,True,True,True,True
+New Brunswick,C14,2018,True,True,True,True
+New Brunswick,C14,2019,True,True,True,True
+New Brunswick,C14,2020,True,True,True,True
+New Brunswick,C14,2021,True,True,True,True
+New Brunswick,C14,2022,True,True,True,True
+New Brunswick,C14,2023,True,True,True,True
+New Brunswick,C14,2024,True,True,True,True
+New Brunswick,C15,2011,True,True,True,True
+New Brunswick,C15,2012,True,True,True,True
+New Brunswick,C15,2013,True,True,True,True
+New Brunswick,C15,2014,True,True,True,True
+New Brunswick,C15,2015,True,True,True,True
+New Brunswick,C15,2016,True,True,True,True
+New Brunswick,C15,2017,True,True,True,True
+New Brunswick,C15,2018,True,True,True,True
+New Brunswick,C15,2019,True,True,True,True
+New Brunswick,C15,2020,True,True,True,True
+New Brunswick,C15,2021,True,True,True,True
+New Brunswick,C15,2022,True,True,True,True
+New Brunswick,C15,2023,True,True,True,True
+New Brunswick,C15,2024,True,True,True,True
+New Brunswick,C16,2011,True,True,True,True
+New Brunswick,C16,2012,True,True,True,True
+New Brunswick,C16,2013,True,True,True,True
+New Brunswick,C16,2014,True,True,True,True
+New Brunswick,C16,2015,True,True,True,True
+New Brunswick,C16,2016,True,True,True,True
+New Brunswick,C16,2017,True,True,True,True
+New Brunswick,C16,2018,True,True,True,True
+New Brunswick,C16,2019,True,True,True,True
+New Brunswick,C16,2020,True,True,True,True
+New Brunswick,C16,2021,True,True,True,True
+New Brunswick,C16,2022,True,True,True,True
+New Brunswick,C16,2023,True,True,True,True
+New Brunswick,C16,2024,True,True,True,True
+New Brunswick,C17,2011,True,True,True,True
+New Brunswick,C17,2012,True,True,True,True
+New Brunswick,C17,2013,True,True,True,True
+New Brunswick,C17,2014,True,True,True,True
+New Brunswick,C17,2015,True,True,True,True
+New Brunswick,C17,2016,True,True,True,True
+New Brunswick,C17,2017,True,True,True,True
+New Brunswick,C17,2018,True,True,True,True
+New Brunswick,C17,2019,True,True,True,True
+New Brunswick,C17,2020,True,True,True,True
+New Brunswick,C17,2021,True,True,True,True
+New Brunswick,C17,2022,True,True,True,True
+New Brunswick,C17,2023,True,True,True,True
+New Brunswick,C17,2024,True,True,True,True
+New Brunswick,C18,2011,True,True,True,True
+New Brunswick,C18,2012,True,True,True,True
+New Brunswick,C18,2013,True,True,True,True
+New Brunswick,C18,2014,True,True,True,True
+New Brunswick,C18,2015,True,True,True,True
+New Brunswick,C18,2016,True,True,True,True
+New Brunswick,C18,2017,True,True,True,True
+New Brunswick,C18,2018,True,True,True,True
+New Brunswick,C18,2019,True,True,True,True
+New Brunswick,C18,2020,True,True,True,True
+New Brunswick,C18,2021,True,True,True,True
+New Brunswick,C18,2022,True,True,True,True
+New Brunswick,C18,2023,True,True,True,True
+New Brunswick,C18,2024,True,True,True,True
+New Brunswick,C19,2011,True,True,True,True
+New Brunswick,C19,2012,True,True,True,True
+New Brunswick,C19,2013,True,True,True,True
+New Brunswick,C19,2014,True,True,True,True
+New Brunswick,C19,2015,True,True,True,True
+New Brunswick,C19,2016,True,True,True,True
+New Brunswick,C19,2017,True,True,True,True
+New Brunswick,C19,2018,True,True,True,True
+New Brunswick,C19,2019,True,True,True,True
+New Brunswick,C19,2020,True,True,True,True
+New Brunswick,C19,2021,True,True,True,True
+New Brunswick,C19,2022,True,True,True,True
+New Brunswick,C19,2023,True,True,True,True
+New Brunswick,C19,2024,True,True,True,True
+New Brunswick,C21,2011,True,True,True,True
+New Brunswick,C21,2012,True,True,True,True
+New Brunswick,C21,2013,True,True,True,True
+New Brunswick,C21,2014,True,True,True,True
+New Brunswick,C21,2015,True,True,True,True
+New Brunswick,C21,2016,True,True,True,True
+New Brunswick,C21,2017,True,True,True,True
+New Brunswick,C21,2018,True,True,True,True
+New Brunswick,C21,2019,True,True,True,True
+New Brunswick,C21,2020,True,True,True,True
+New Brunswick,C21,2021,True,True,True,True
+New Brunswick,C21,2022,True,True,True,True
+New Brunswick,C21,2023,True,True,True,True
+New Brunswick,C21,2024,True,True,True,True
+New Brunswick,C22,2011,True,True,True,True
+New Brunswick,C22,2012,True,True,True,True
+New Brunswick,C22,2013,True,True,True,True
+New Brunswick,C22,2014,True,True,True,True
+New Brunswick,C22,2015,True,True,True,True
+New Brunswick,C22,2016,True,True,True,True
+New Brunswick,C22,2017,True,True,True,True
+New Brunswick,C22,2018,True,True,True,True
+New Brunswick,C22,2019,True,True,True,True
+New Brunswick,C22,2020,True,True,True,True
+New Brunswick,C22,2021,True,True,True,True
+New Brunswick,C22,2022,True,True,True,True
+New Brunswick,C22,2023,True,True,True,True
+New Brunswick,C22,2024,True,True,True,True
+Newfoundland and Labrador,C11,2011,True,True,True,True
+Newfoundland and Labrador,C11,2012,True,True,True,True
+Newfoundland and Labrador,C11,2013,True,True,True,True
+Newfoundland and Labrador,C11,2014,True,True,True,True
+Newfoundland and Labrador,C11,2015,True,True,True,True
+Newfoundland and Labrador,C11,2016,True,True,True,True
+Newfoundland and Labrador,C11,2017,True,True,True,True
+Newfoundland and Labrador,C11,2018,True,True,True,True
+Newfoundland and Labrador,C11,2019,True,True,True,True
+Newfoundland and Labrador,C11,2020,True,True,True,True
+Newfoundland and Labrador,C11,2021,True,True,True,True
+Newfoundland and Labrador,C11,2022,True,True,True,True
+Newfoundland and Labrador,C11,2023,True,True,True,True
+Newfoundland and Labrador,C11,2024,True,True,True,True
+Newfoundland and Labrador,C12,2011,True,True,True,True
+Newfoundland and Labrador,C12,2012,True,True,True,True
+Newfoundland and Labrador,C12,2013,True,True,True,True
+Newfoundland and Labrador,C12,2014,True,True,True,True
+Newfoundland and Labrador,C12,2015,True,True,True,True
+Newfoundland and Labrador,C12,2016,True,True,True,True
+Newfoundland and Labrador,C12,2017,True,True,True,True
+Newfoundland and Labrador,C12,2018,True,True,True,True
+Newfoundland and Labrador,C12,2019,True,True,True,True
+Newfoundland and Labrador,C12,2020,True,True,True,True
+Newfoundland and Labrador,C12,2021,True,True,True,True
+Newfoundland and Labrador,C12,2022,True,True,True,True
+Newfoundland and Labrador,C12,2023,True,True,True,True
+Newfoundland and Labrador,C12,2024,True,True,True,True
+Newfoundland and Labrador,C13,2011,True,True,True,True
+Newfoundland and Labrador,C13,2012,True,True,True,True
+Newfoundland and Labrador,C13,2013,True,True,True,True
+Newfoundland and Labrador,C13,2014,True,True,True,True
+Newfoundland and Labrador,C13,2015,True,True,True,True
+Newfoundland and Labrador,C13,2016,True,True,True,True
+Newfoundland and Labrador,C13,2017,True,True,True,True
+Newfoundland and Labrador,C13,2018,True,True,True,True
+Newfoundland and Labrador,C13,2019,True,True,True,True
+Newfoundland and Labrador,C13,2020,True,True,True,True
+Newfoundland and Labrador,C13,2021,True,True,True,True
+Newfoundland and Labrador,C13,2022,True,True,True,True
+Newfoundland and Labrador,C13,2023,True,True,True,True
+Newfoundland and Labrador,C13,2024,True,True,True,True
+Newfoundland and Labrador,C14,2011,True,True,True,True
+Newfoundland and Labrador,C14,2012,True,True,True,True
+Newfoundland and Labrador,C14,2013,True,True,True,True
+Newfoundland and Labrador,C14,2014,True,True,True,True
+Newfoundland and Labrador,C14,2015,True,True,True,True
+Newfoundland and Labrador,C14,2016,True,True,True,True
+Newfoundland and Labrador,C14,2017,True,True,True,True
+Newfoundland and Labrador,C14,2018,True,True,True,True
+Newfoundland and Labrador,C14,2019,True,True,True,True
+Newfoundland and Labrador,C14,2020,True,True,True,True
+Newfoundland and Labrador,C14,2021,True,True,True,True
+Newfoundland and Labrador,C14,2022,True,True,True,True
+Newfoundland and Labrador,C14,2023,True,True,True,True
+Newfoundland and Labrador,C14,2024,True,True,True,True
+Newfoundland and Labrador,C15,2011,True,True,True,True
+Newfoundland and Labrador,C15,2012,True,True,True,True
+Newfoundland and Labrador,C15,2013,True,True,True,True
+Newfoundland and Labrador,C15,2014,True,True,True,True
+Newfoundland and Labrador,C15,2015,True,True,True,True
+Newfoundland and Labrador,C15,2016,True,True,True,True
+Newfoundland and Labrador,C15,2017,True,True,True,True
+Newfoundland and Labrador,C15,2018,True,True,True,True
+Newfoundland and Labrador,C15,2019,True,True,True,True
+Newfoundland and Labrador,C15,2020,True,True,True,True
+Newfoundland and Labrador,C15,2021,True,True,True,True
+Newfoundland and Labrador,C15,2022,True,True,True,True
+Newfoundland and Labrador,C15,2023,True,True,True,True
+Newfoundland and Labrador,C15,2024,True,True,True,True
+Newfoundland and Labrador,C16,2011,True,True,True,True
+Newfoundland and Labrador,C16,2012,True,True,True,True
+Newfoundland and Labrador,C16,2013,True,True,True,True
+Newfoundland and Labrador,C16,2014,True,True,True,True
+Newfoundland and Labrador,C16,2015,True,True,True,True
+Newfoundland and Labrador,C16,2016,True,True,True,True
+Newfoundland and Labrador,C16,2017,True,True,True,True
+Newfoundland and Labrador,C16,2018,True,True,True,True
+Newfoundland and Labrador,C16,2019,True,True,True,True
+Newfoundland and Labrador,C16,2020,True,True,True,True
+Newfoundland and Labrador,C16,2021,True,True,True,True
+Newfoundland and Labrador,C16,2022,True,True,True,True
+Newfoundland and Labrador,C16,2023,True,True,True,True
+Newfoundland and Labrador,C16,2024,True,True,True,True
+Newfoundland and Labrador,C17,2011,True,True,True,True
+Newfoundland and Labrador,C17,2012,True,True,True,True
+Newfoundland and Labrador,C17,2013,True,True,True,True
+Newfoundland and Labrador,C17,2014,True,True,True,True
+Newfoundland and Labrador,C17,2015,True,True,True,True
+Newfoundland and Labrador,C17,2016,True,True,True,True
+Newfoundland and Labrador,C17,2017,True,True,True,True
+Newfoundland and Labrador,C17,2018,True,True,True,True
+Newfoundland and Labrador,C17,2019,True,True,True,True
+Newfoundland and Labrador,C17,2020,True,True,True,True
+Newfoundland and Labrador,C17,2021,True,True,True,True
+Newfoundland and Labrador,C17,2022,True,True,True,True
+Newfoundland and Labrador,C17,2023,True,True,True,True
+Newfoundland and Labrador,C17,2024,True,True,True,True
+Newfoundland and Labrador,C18,2011,True,True,True,True
+Newfoundland and Labrador,C18,2012,True,True,True,True
+Newfoundland and Labrador,C18,2013,True,True,True,True
+Newfoundland and Labrador,C18,2014,True,True,True,True
+Newfoundland and Labrador,C18,2015,True,True,True,True
+Newfoundland and Labrador,C18,2016,True,True,True,True
+Newfoundland and Labrador,C18,2017,True,True,True,True
+Newfoundland and Labrador,C18,2018,True,True,True,True
+Newfoundland and Labrador,C18,2019,True,True,True,True
+Newfoundland and Labrador,C18,2020,True,True,True,True
+Newfoundland and Labrador,C18,2021,True,True,True,True
+Newfoundland and Labrador,C18,2022,True,True,True,True
+Newfoundland and Labrador,C18,2023,True,True,True,True
+Newfoundland and Labrador,C18,2024,True,True,True,True
+Newfoundland and Labrador,C19,2011,True,True,True,True
+Newfoundland and Labrador,C19,2012,True,True,True,True
+Newfoundland and Labrador,C19,2013,True,True,True,True
+Newfoundland and Labrador,C19,2014,True,True,True,True
+Newfoundland and Labrador,C19,2015,True,True,True,True
+Newfoundland and Labrador,C19,2016,True,True,True,True
+Newfoundland and Labrador,C19,2017,True,True,True,True
+Newfoundland and Labrador,C19,2018,True,True,True,True
+Newfoundland and Labrador,C19,2019,True,True,True,True
+Newfoundland and Labrador,C19,2020,True,True,True,True
+Newfoundland and Labrador,C19,2021,True,True,True,True
+Newfoundland and Labrador,C19,2022,True,True,True,True
+Newfoundland and Labrador,C19,2023,True,True,True,True
+Newfoundland and Labrador,C19,2024,True,True,True,True
+Newfoundland and Labrador,C21,2011,True,True,True,True
+Newfoundland and Labrador,C21,2012,True,True,True,True
+Newfoundland and Labrador,C21,2013,True,True,True,True
+Newfoundland and Labrador,C21,2014,True,True,True,True
+Newfoundland and Labrador,C21,2015,True,True,True,True
+Newfoundland and Labrador,C21,2016,True,True,True,True
+Newfoundland and Labrador,C21,2017,True,True,True,True
+Newfoundland and Labrador,C21,2018,True,True,True,True
+Newfoundland and Labrador,C21,2019,True,True,True,True
+Newfoundland and Labrador,C21,2020,True,True,True,True
+Newfoundland and Labrador,C21,2021,True,True,True,True
+Newfoundland and Labrador,C21,2022,True,True,True,True
+Newfoundland and Labrador,C21,2023,True,True,True,True
+Newfoundland and Labrador,C21,2024,True,True,True,True
+Newfoundland and Labrador,C22,2011,True,True,True,True
+Newfoundland and Labrador,C22,2012,True,True,True,True
+Newfoundland and Labrador,C22,2013,True,True,True,True
+Newfoundland and Labrador,C22,2014,True,True,True,True
+Newfoundland and Labrador,C22,2015,True,True,True,True
+Newfoundland and Labrador,C22,2016,True,True,True,True
+Newfoundland and Labrador,C22,2017,True,True,True,True
+Newfoundland and Labrador,C22,2018,True,True,True,True
+Newfoundland and Labrador,C22,2019,True,True,True,True
+Newfoundland and Labrador,C22,2020,True,True,True,True
+Newfoundland and Labrador,C22,2021,True,True,True,True
+Newfoundland and Labrador,C22,2022,True,True,True,True
+Newfoundland and Labrador,C22,2023,True,True,True,True
+Newfoundland and Labrador,C22,2024,True,True,True,True
+Nova Scotia,C11,2011,True,True,True,True
+Nova Scotia,C11,2012,True,True,True,True
+Nova Scotia,C11,2013,True,True,True,True
+Nova Scotia,C11,2014,True,True,True,True
+Nova Scotia,C11,2015,True,True,True,True
+Nova Scotia,C11,2016,True,True,True,True
+Nova Scotia,C11,2017,True,True,True,True
+Nova Scotia,C11,2018,True,True,True,True
+Nova Scotia,C11,2019,True,True,True,True
+Nova Scotia,C11,2020,True,True,True,True
+Nova Scotia,C11,2021,True,True,True,True
+Nova Scotia,C11,2022,True,True,True,True
+Nova Scotia,C11,2023,True,True,True,True
+Nova Scotia,C11,2024,True,True,True,True
+Nova Scotia,C12,2011,True,True,True,True
+Nova Scotia,C12,2012,True,True,True,True
+Nova Scotia,C12,2013,True,True,True,True
+Nova Scotia,C12,2014,True,True,True,True
+Nova Scotia,C12,2015,True,True,True,True
+Nova Scotia,C12,2016,True,True,True,True
+Nova Scotia,C12,2017,True,True,True,True
+Nova Scotia,C12,2018,True,True,True,True
+Nova Scotia,C12,2019,True,True,True,True
+Nova Scotia,C12,2020,True,True,True,True
+Nova Scotia,C12,2021,True,True,True,True
+Nova Scotia,C12,2022,True,True,True,True
+Nova Scotia,C12,2023,True,True,True,True
+Nova Scotia,C12,2024,True,True,True,True
+Nova Scotia,C13,2011,True,True,True,True
+Nova Scotia,C13,2012,True,True,True,True
+Nova Scotia,C13,2013,True,True,True,True
+Nova Scotia,C13,2014,True,True,True,True
+Nova Scotia,C13,2015,True,True,True,True
+Nova Scotia,C13,2016,True,True,True,True
+Nova Scotia,C13,2017,True,True,True,True
+Nova Scotia,C13,2018,True,True,True,True
+Nova Scotia,C13,2019,True,True,True,True
+Nova Scotia,C13,2020,True,True,True,True
+Nova Scotia,C13,2021,True,True,True,True
+Nova Scotia,C13,2022,True,True,True,True
+Nova Scotia,C13,2023,True,True,True,True
+Nova Scotia,C13,2024,True,True,True,True
+Nova Scotia,C14,2011,True,True,True,True
+Nova Scotia,C14,2012,True,True,True,True
+Nova Scotia,C14,2013,True,True,True,True
+Nova Scotia,C14,2014,True,True,True,True
+Nova Scotia,C14,2015,True,True,True,True
+Nova Scotia,C14,2016,True,True,True,True
+Nova Scotia,C14,2017,True,True,True,True
+Nova Scotia,C14,2018,True,True,True,True
+Nova Scotia,C14,2019,True,True,True,True
+Nova Scotia,C14,2020,True,True,True,True
+Nova Scotia,C14,2021,True,True,True,True
+Nova Scotia,C14,2022,True,True,True,True
+Nova Scotia,C14,2023,True,True,True,True
+Nova Scotia,C14,2024,True,True,True,True
+Nova Scotia,C15,2011,True,True,True,True
+Nova Scotia,C15,2012,True,True,True,True
+Nova Scotia,C15,2013,True,True,True,True
+Nova Scotia,C15,2014,True,True,True,True
+Nova Scotia,C15,2015,True,True,True,True
+Nova Scotia,C15,2016,True,True,True,True
+Nova Scotia,C15,2017,True,True,True,True
+Nova Scotia,C15,2018,True,True,True,True
+Nova Scotia,C15,2019,True,True,True,True
+Nova Scotia,C15,2020,True,True,True,True
+Nova Scotia,C15,2021,True,True,True,True
+Nova Scotia,C15,2022,True,True,True,True
+Nova Scotia,C15,2023,True,True,True,True
+Nova Scotia,C15,2024,True,True,True,True
+Nova Scotia,C16,2011,True,True,True,True
+Nova Scotia,C16,2012,True,True,True,True
+Nova Scotia,C16,2013,True,True,True,True
+Nova Scotia,C16,2014,True,True,True,True
+Nova Scotia,C16,2015,True,True,True,True
+Nova Scotia,C16,2016,True,True,True,True
+Nova Scotia,C16,2017,True,True,True,True
+Nova Scotia,C16,2018,True,True,True,True
+Nova Scotia,C16,2019,True,True,True,True
+Nova Scotia,C16,2020,True,True,True,True
+Nova Scotia,C16,2021,True,True,True,True
+Nova Scotia,C16,2022,True,True,True,True
+Nova Scotia,C16,2023,True,True,True,True
+Nova Scotia,C16,2024,True,True,True,True
+Nova Scotia,C17,2011,True,True,True,True
+Nova Scotia,C17,2012,True,True,True,True
+Nova Scotia,C17,2013,True,True,True,True
+Nova Scotia,C17,2014,True,True,True,True
+Nova Scotia,C17,2015,True,True,True,True
+Nova Scotia,C17,2016,True,True,True,True
+Nova Scotia,C17,2017,True,True,True,True
+Nova Scotia,C17,2018,True,True,True,True
+Nova Scotia,C17,2019,True,True,True,True
+Nova Scotia,C17,2020,True,True,True,True
+Nova Scotia,C17,2021,True,True,True,True
+Nova Scotia,C17,2022,True,True,True,True
+Nova Scotia,C17,2023,True,True,True,True
+Nova Scotia,C17,2024,True,True,True,True
+Nova Scotia,C18,2011,True,True,True,True
+Nova Scotia,C18,2012,True,True,True,True
+Nova Scotia,C18,2013,True,True,True,True
+Nova Scotia,C18,2014,True,True,True,True
+Nova Scotia,C18,2015,True,True,True,True
+Nova Scotia,C18,2016,True,True,True,True
+Nova Scotia,C18,2017,True,True,True,True
+Nova Scotia,C18,2018,True,True,True,True
+Nova Scotia,C18,2019,True,True,True,True
+Nova Scotia,C18,2020,True,True,True,True
+Nova Scotia,C18,2021,True,True,True,True
+Nova Scotia,C18,2022,True,True,True,True
+Nova Scotia,C18,2023,True,True,True,True
+Nova Scotia,C18,2024,True,True,True,True
+Nova Scotia,C19,2011,True,True,True,True
+Nova Scotia,C19,2012,True,True,True,True
+Nova Scotia,C19,2013,True,True,True,True
+Nova Scotia,C19,2014,True,True,True,True
+Nova Scotia,C19,2015,True,True,True,True
+Nova Scotia,C19,2016,True,True,True,True
+Nova Scotia,C19,2017,True,True,True,True
+Nova Scotia,C19,2018,True,True,True,True
+Nova Scotia,C19,2019,True,True,True,True
+Nova Scotia,C19,2020,True,True,True,True
+Nova Scotia,C19,2021,True,True,True,True
+Nova Scotia,C19,2022,True,True,True,True
+Nova Scotia,C19,2023,True,True,True,True
+Nova Scotia,C19,2024,True,True,True,True
+Nova Scotia,C21,2011,True,True,True,True
+Nova Scotia,C21,2012,True,True,True,True
+Nova Scotia,C21,2013,True,True,True,True
+Nova Scotia,C21,2014,True,True,True,True
+Nova Scotia,C21,2015,True,True,True,True
+Nova Scotia,C21,2016,True,True,True,True
+Nova Scotia,C21,2017,True,True,True,True
+Nova Scotia,C21,2018,True,True,True,True
+Nova Scotia,C21,2019,True,True,True,True
+Nova Scotia,C21,2020,True,True,True,True
+Nova Scotia,C21,2021,True,True,True,True
+Nova Scotia,C21,2022,True,True,True,True
+Nova Scotia,C21,2023,True,True,True,True
+Nova Scotia,C21,2024,True,True,True,True
+Nova Scotia,C22,2011,True,True,True,True
+Nova Scotia,C22,2012,True,True,True,True
+Nova Scotia,C22,2013,True,True,True,True
+Nova Scotia,C22,2014,True,True,True,True
+Nova Scotia,C22,2015,True,True,True,True
+Nova Scotia,C22,2016,True,True,True,True
+Nova Scotia,C22,2017,True,True,True,True
+Nova Scotia,C22,2018,True,True,True,True
+Nova Scotia,C22,2019,True,True,True,True
+Nova Scotia,C22,2020,True,True,True,True
+Nova Scotia,C22,2021,True,True,True,True
+Nova Scotia,C22,2022,True,True,True,True
+Nova Scotia,C22,2023,True,True,True,True
+Nova Scotia,C22,2024,True,True,True,True
+Ontario,C11,2011,True,True,True,True
+Ontario,C11,2012,True,True,True,True
+Ontario,C11,2013,True,True,True,True
+Ontario,C11,2014,True,True,True,True
+Ontario,C11,2015,True,True,True,True
+Ontario,C11,2016,True,True,True,True
+Ontario,C11,2017,True,True,True,True
+Ontario,C11,2018,True,True,True,True
+Ontario,C11,2019,True,True,True,True
+Ontario,C11,2020,True,True,True,True
+Ontario,C11,2021,True,True,True,True
+Ontario,C11,2022,True,True,True,True
+Ontario,C11,2023,True,True,True,True
+Ontario,C11,2024,True,True,True,True
+Ontario,C12,2011,True,True,True,True
+Ontario,C12,2012,True,True,True,True
+Ontario,C12,2013,True,True,True,True
+Ontario,C12,2014,True,True,True,True
+Ontario,C12,2015,True,True,True,True
+Ontario,C12,2016,True,True,True,True
+Ontario,C12,2017,True,True,True,True
+Ontario,C12,2018,True,True,True,True
+Ontario,C12,2019,True,True,True,True
+Ontario,C12,2020,True,True,True,True
+Ontario,C12,2021,True,True,True,True
+Ontario,C12,2022,True,True,True,True
+Ontario,C12,2023,True,True,True,True
+Ontario,C12,2024,True,True,True,True
+Ontario,C13,2011,True,True,True,True
+Ontario,C13,2012,True,True,True,True
+Ontario,C13,2013,True,True,True,True
+Ontario,C13,2014,True,True,True,True
+Ontario,C13,2015,True,True,True,True
+Ontario,C13,2016,True,True,True,True
+Ontario,C13,2017,True,True,True,True
+Ontario,C13,2018,True,True,True,True
+Ontario,C13,2019,True,True,True,True
+Ontario,C13,2020,True,True,True,True
+Ontario,C13,2021,False,True,True,False
+Ontario,C13,2022,True,True,True,True
+Ontario,C13,2023,True,True,True,True
+Ontario,C13,2024,True,True,True,True
+Ontario,C14,2011,True,True,True,True
+Ontario,C14,2012,True,True,True,True
+Ontario,C14,2013,True,True,True,True
+Ontario,C14,2014,True,True,True,True
+Ontario,C14,2015,True,True,True,True
+Ontario,C14,2016,True,True,True,True
+Ontario,C14,2017,True,True,True,True
+Ontario,C14,2018,True,True,True,True
+Ontario,C14,2019,True,True,True,True
+Ontario,C14,2020,True,True,True,True
+Ontario,C14,2021,True,True,True,True
+Ontario,C14,2022,True,True,True,True
+Ontario,C14,2023,True,True,True,True
+Ontario,C14,2024,True,True,True,True
+Ontario,C15,2011,True,True,True,True
+Ontario,C15,2012,True,True,True,True
+Ontario,C15,2013,True,True,True,True
+Ontario,C15,2014,True,True,True,True
+Ontario,C15,2015,True,True,True,True
+Ontario,C15,2016,True,True,True,True
+Ontario,C15,2017,True,True,True,True
+Ontario,C15,2018,True,True,True,True
+Ontario,C15,2019,True,True,True,True
+Ontario,C15,2020,True,True,True,True
+Ontario,C15,2021,True,True,True,True
+Ontario,C15,2022,True,True,True,True
+Ontario,C15,2023,True,True,True,True
+Ontario,C15,2024,True,True,True,True
+Ontario,C16,2011,True,True,True,True
+Ontario,C16,2012,True,True,True,True
+Ontario,C16,2013,True,True,True,True
+Ontario,C16,2014,True,True,True,True
+Ontario,C16,2015,True,True,True,True
+Ontario,C16,2016,True,True,True,True
+Ontario,C16,2017,True,True,True,True
+Ontario,C16,2018,True,True,True,True
+Ontario,C16,2019,True,True,True,True
+Ontario,C16,2020,True,True,True,True
+Ontario,C16,2021,True,True,True,True
+Ontario,C16,2022,True,True,True,True
+Ontario,C16,2023,True,True,True,True
+Ontario,C16,2024,True,True,True,True
+Ontario,C17,2011,True,True,True,True
+Ontario,C17,2012,True,True,True,True
+Ontario,C17,2013,True,True,True,True
+Ontario,C17,2014,True,True,True,True
+Ontario,C17,2015,True,True,True,True
+Ontario,C17,2016,True,True,True,True
+Ontario,C17,2017,True,True,True,True
+Ontario,C17,2018,True,True,True,True
+Ontario,C17,2019,True,True,True,True
+Ontario,C17,2020,True,True,True,True
+Ontario,C17,2021,True,True,True,True
+Ontario,C17,2022,True,True,True,True
+Ontario,C17,2023,True,True,True,True
+Ontario,C17,2024,True,True,True,True
+Ontario,C18,2011,True,True,True,True
+Ontario,C18,2012,True,True,True,True
+Ontario,C18,2013,True,True,True,True
+Ontario,C18,2014,True,True,True,True
+Ontario,C18,2015,True,True,True,True
+Ontario,C18,2016,True,True,True,True
+Ontario,C18,2017,True,True,True,True
+Ontario,C18,2018,True,True,True,True
+Ontario,C18,2019,True,True,True,True
+Ontario,C18,2020,True,True,True,True
+Ontario,C18,2021,True,True,True,True
+Ontario,C18,2022,True,True,True,True
+Ontario,C18,2023,True,True,True,True
+Ontario,C18,2024,True,True,True,True
+Ontario,C19,2011,True,True,True,True
+Ontario,C19,2012,True,True,True,True
+Ontario,C19,2013,True,True,True,True
+Ontario,C19,2014,True,True,True,True
+Ontario,C19,2015,True,True,True,True
+Ontario,C19,2016,True,True,True,True
+Ontario,C19,2017,True,True,True,True
+Ontario,C19,2018,True,True,True,True
+Ontario,C19,2019,True,True,True,True
+Ontario,C19,2020,True,True,True,True
+Ontario,C19,2021,True,True,True,True
+Ontario,C19,2022,True,True,True,True
+Ontario,C19,2023,True,True,True,True
+Ontario,C19,2024,True,True,True,True
+Ontario,C21,2011,True,True,True,True
+Ontario,C21,2012,True,True,True,True
+Ontario,C21,2013,True,True,True,True
+Ontario,C21,2014,True,True,True,True
+Ontario,C21,2015,True,True,True,True
+Ontario,C21,2016,True,True,True,True
+Ontario,C21,2017,True,True,True,True
+Ontario,C21,2018,True,True,True,True
+Ontario,C21,2019,True,True,True,True
+Ontario,C21,2020,True,True,True,True
+Ontario,C21,2021,True,True,True,True
+Ontario,C21,2022,True,True,True,True
+Ontario,C21,2023,True,True,True,True
+Ontario,C21,2024,True,True,True,True
+Ontario,C22,2011,True,True,True,True
+Ontario,C22,2012,True,True,True,True
+Ontario,C22,2013,True,True,True,True
+Ontario,C22,2014,True,True,True,True
+Ontario,C22,2015,True,True,True,True
+Ontario,C22,2016,True,True,True,True
+Ontario,C22,2017,True,True,True,True
+Ontario,C22,2018,True,True,True,True
+Ontario,C22,2019,True,True,True,True
+Ontario,C22,2020,True,True,True,True
+Ontario,C22,2021,True,True,True,True
+Ontario,C22,2022,True,True,True,True
+Ontario,C22,2023,True,True,True,True
+Ontario,C22,2024,True,True,True,True
+Prince Edward Island,C11,2011,True,True,True,True
+Prince Edward Island,C11,2012,True,True,True,True
+Prince Edward Island,C11,2013,True,True,True,True
+Prince Edward Island,C11,2014,True,True,True,True
+Prince Edward Island,C11,2015,True,True,True,True
+Prince Edward Island,C11,2016,True,True,True,True
+Prince Edward Island,C11,2017,True,True,True,True
+Prince Edward Island,C11,2018,True,True,True,True
+Prince Edward Island,C11,2019,True,True,True,True
+Prince Edward Island,C11,2020,True,True,True,True
+Prince Edward Island,C11,2021,True,True,True,True
+Prince Edward Island,C11,2022,True,True,True,True
+Prince Edward Island,C11,2023,True,True,True,True
+Prince Edward Island,C11,2024,True,True,True,True
+Prince Edward Island,C12,2011,False,False,False,False
+Prince Edward Island,C12,2012,False,False,False,False
+Prince Edward Island,C12,2013,False,False,True,False
+Prince Edward Island,C12,2014,False,True,True,False
+Prince Edward Island,C12,2015,False,True,True,False
+Prince Edward Island,C12,2016,True,True,True,True
+Prince Edward Island,C12,2017,False,True,True,False
+Prince Edward Island,C12,2018,False,True,False,False
+Prince Edward Island,C12,2019,True,False,True,False
+Prince Edward Island,C12,2020,False,True,True,False
+Prince Edward Island,C12,2021,False,True,False,False
+Prince Edward Island,C12,2022,False,False,False,False
+Prince Edward Island,C12,2023,False,False,False,False
+Prince Edward Island,C12,2024,False,False,False,False
+Prince Edward Island,C13,2011,True,True,True,True
+Prince Edward Island,C13,2012,True,True,True,True
+Prince Edward Island,C13,2013,True,True,True,True
+Prince Edward Island,C13,2014,True,True,True,True
+Prince Edward Island,C13,2015,True,True,True,True
+Prince Edward Island,C13,2016,True,True,True,True
+Prince Edward Island,C13,2017,True,True,True,True
+Prince Edward Island,C13,2018,True,True,True,True
+Prince Edward Island,C13,2019,True,True,True,True
+Prince Edward Island,C13,2020,True,True,True,True
+Prince Edward Island,C13,2021,True,True,True,True
+Prince Edward Island,C13,2022,False,True,True,False
+Prince Edward Island,C13,2023,True,True,True,True
+Prince Edward Island,C13,2024,True,True,True,True
+Prince Edward Island,C14,2011,True,True,True,True
+Prince Edward Island,C14,2012,True,True,True,True
+Prince Edward Island,C14,2013,True,True,True,True
+Prince Edward Island,C14,2014,True,True,True,True
+Prince Edward Island,C14,2015,True,True,True,True
+Prince Edward Island,C14,2016,True,True,True,True
+Prince Edward Island,C14,2017,True,True,True,True
+Prince Edward Island,C14,2018,True,True,True,True
+Prince Edward Island,C14,2019,True,True,True,True
+Prince Edward Island,C14,2020,True,True,True,True
+Prince Edward Island,C14,2021,True,True,True,True
+Prince Edward Island,C14,2022,True,True,True,True
+Prince Edward Island,C14,2023,True,True,True,True
+Prince Edward Island,C14,2024,True,True,True,True
+Prince Edward Island,C15,2011,True,True,True,True
+Prince Edward Island,C15,2012,True,True,True,True
+Prince Edward Island,C15,2013,True,True,True,True
+Prince Edward Island,C15,2014,True,True,True,True
+Prince Edward Island,C15,2015,True,True,True,True
+Prince Edward Island,C15,2016,True,True,True,True
+Prince Edward Island,C15,2017,True,True,True,True
+Prince Edward Island,C15,2018,True,True,True,True
+Prince Edward Island,C15,2019,True,True,True,True
+Prince Edward Island,C15,2020,True,True,True,True
+Prince Edward Island,C15,2021,True,True,True,True
+Prince Edward Island,C15,2022,True,True,True,True
+Prince Edward Island,C15,2023,True,True,True,True
+Prince Edward Island,C15,2024,True,True,True,True
+Prince Edward Island,C16,2011,True,True,True,True
+Prince Edward Island,C16,2012,True,True,True,True
+Prince Edward Island,C16,2013,True,True,True,True
+Prince Edward Island,C16,2014,True,True,True,True
+Prince Edward Island,C16,2015,True,True,True,True
+Prince Edward Island,C16,2016,True,True,True,True
+Prince Edward Island,C16,2017,True,True,True,True
+Prince Edward Island,C16,2018,True,True,True,True
+Prince Edward Island,C16,2019,True,True,True,True
+Prince Edward Island,C16,2020,True,True,True,True
+Prince Edward Island,C16,2021,True,True,True,True
+Prince Edward Island,C16,2022,True,True,True,True
+Prince Edward Island,C16,2023,True,True,True,True
+Prince Edward Island,C16,2024,True,True,True,True
+Prince Edward Island,C17,2011,True,True,True,True
+Prince Edward Island,C17,2012,True,True,True,True
+Prince Edward Island,C17,2013,True,True,True,True
+Prince Edward Island,C17,2014,True,True,True,True
+Prince Edward Island,C17,2015,True,True,True,True
+Prince Edward Island,C17,2016,True,True,True,True
+Prince Edward Island,C17,2017,True,True,True,True
+Prince Edward Island,C17,2018,True,True,True,True
+Prince Edward Island,C17,2019,True,True,True,True
+Prince Edward Island,C17,2020,True,True,True,True
+Prince Edward Island,C17,2021,True,True,True,True
+Prince Edward Island,C17,2022,True,True,True,True
+Prince Edward Island,C17,2023,True,True,True,True
+Prince Edward Island,C17,2024,True,True,True,True
+Prince Edward Island,C18,2011,True,True,True,True
+Prince Edward Island,C18,2012,True,True,True,True
+Prince Edward Island,C18,2013,True,True,True,True
+Prince Edward Island,C18,2014,True,True,True,True
+Prince Edward Island,C18,2015,True,True,True,True
+Prince Edward Island,C18,2016,True,True,True,True
+Prince Edward Island,C18,2017,True,True,True,True
+Prince Edward Island,C18,2018,True,True,True,True
+Prince Edward Island,C18,2019,True,True,True,True
+Prince Edward Island,C18,2020,True,True,True,True
+Prince Edward Island,C18,2021,True,True,True,True
+Prince Edward Island,C18,2022,True,True,True,True
+Prince Edward Island,C18,2023,True,True,True,True
+Prince Edward Island,C18,2024,True,True,True,True
+Prince Edward Island,C19,2011,True,True,True,True
+Prince Edward Island,C19,2012,True,True,True,True
+Prince Edward Island,C19,2013,True,True,True,True
+Prince Edward Island,C19,2014,True,True,True,True
+Prince Edward Island,C19,2015,True,True,True,True
+Prince Edward Island,C19,2016,True,True,True,True
+Prince Edward Island,C19,2017,True,True,True,True
+Prince Edward Island,C19,2018,True,True,True,True
+Prince Edward Island,C19,2019,True,True,True,True
+Prince Edward Island,C19,2020,True,True,True,True
+Prince Edward Island,C19,2021,True,True,True,True
+Prince Edward Island,C19,2022,True,True,True,True
+Prince Edward Island,C19,2023,True,True,True,True
+Prince Edward Island,C19,2024,True,True,True,True
+Prince Edward Island,C21,2011,True,True,True,True
+Prince Edward Island,C21,2012,True,True,True,True
+Prince Edward Island,C21,2013,True,True,True,True
+Prince Edward Island,C21,2014,True,True,True,True
+Prince Edward Island,C21,2015,True,True,True,True
+Prince Edward Island,C21,2016,True,True,True,True
+Prince Edward Island,C21,2017,True,True,True,True
+Prince Edward Island,C21,2018,True,True,True,True
+Prince Edward Island,C21,2019,True,True,True,True
+Prince Edward Island,C21,2020,True,True,True,True
+Prince Edward Island,C21,2021,True,True,True,True
+Prince Edward Island,C21,2022,True,True,True,True
+Prince Edward Island,C21,2023,True,True,True,True
+Prince Edward Island,C21,2024,True,True,True,True
+Prince Edward Island,C22,2011,True,True,True,True
+Prince Edward Island,C22,2012,True,True,True,True
+Prince Edward Island,C22,2013,True,True,True,True
+Prince Edward Island,C22,2014,True,True,True,True
+Prince Edward Island,C22,2015,True,True,True,True
+Prince Edward Island,C22,2016,True,True,True,True
+Prince Edward Island,C22,2017,True,True,True,True
+Prince Edward Island,C22,2018,True,True,True,True
+Prince Edward Island,C22,2019,True,True,True,True
+Prince Edward Island,C22,2020,True,True,True,True
+Prince Edward Island,C22,2021,True,True,True,True
+Prince Edward Island,C22,2022,True,True,True,True
+Prince Edward Island,C22,2023,True,True,True,True
+Prince Edward Island,C22,2024,True,True,True,True
+Quebec,C11,2011,True,True,True,True
+Quebec,C11,2012,True,True,True,True
+Quebec,C11,2013,True,True,True,True
+Quebec,C11,2014,True,True,True,True
+Quebec,C11,2015,True,True,True,True
+Quebec,C11,2016,True,True,True,True
+Quebec,C11,2017,True,True,True,True
+Quebec,C11,2018,True,True,True,True
+Quebec,C11,2019,True,True,True,True
+Quebec,C11,2020,True,True,True,True
+Quebec,C11,2021,True,True,True,True
+Quebec,C11,2022,True,True,True,True
+Quebec,C11,2023,True,True,True,True
+Quebec,C11,2024,True,True,True,True
+Quebec,C12,2011,True,True,True,True
+Quebec,C12,2012,True,True,True,True
+Quebec,C12,2013,True,True,True,True
+Quebec,C12,2014,True,True,True,True
+Quebec,C12,2015,True,True,True,True
+Quebec,C12,2016,True,True,True,True
+Quebec,C12,2017,True,True,True,True
+Quebec,C12,2018,True,True,True,True
+Quebec,C12,2019,True,True,True,True
+Quebec,C12,2020,True,True,True,True
+Quebec,C12,2021,True,True,True,True
+Quebec,C12,2022,True,True,True,True
+Quebec,C12,2023,True,True,True,True
+Quebec,C12,2024,True,True,True,True
+Quebec,C13,2011,True,True,True,True
+Quebec,C13,2012,True,True,True,True
+Quebec,C13,2013,True,True,True,True
+Quebec,C13,2014,True,True,True,True
+Quebec,C13,2015,True,True,True,True
+Quebec,C13,2016,True,True,True,True
+Quebec,C13,2017,True,True,True,True
+Quebec,C13,2018,True,True,True,True
+Quebec,C13,2019,True,True,True,True
+Quebec,C13,2020,True,True,True,True
+Quebec,C13,2021,True,True,True,True
+Quebec,C13,2022,True,True,True,True
+Quebec,C13,2023,True,True,True,True
+Quebec,C13,2024,True,True,True,True
+Quebec,C14,2011,True,True,True,True
+Quebec,C14,2012,True,True,True,True
+Quebec,C14,2013,True,True,True,True
+Quebec,C14,2014,True,True,True,True
+Quebec,C14,2015,True,True,True,True
+Quebec,C14,2016,True,True,True,True
+Quebec,C14,2017,True,True,True,True
+Quebec,C14,2018,True,True,True,True
+Quebec,C14,2019,True,True,True,True
+Quebec,C14,2020,True,True,True,True
+Quebec,C14,2021,True,True,True,True
+Quebec,C14,2022,True,True,True,True
+Quebec,C14,2023,True,True,True,True
+Quebec,C14,2024,True,True,True,True
+Quebec,C15,2011,True,True,True,True
+Quebec,C15,2012,True,True,True,True
+Quebec,C15,2013,True,True,True,True
+Quebec,C15,2014,True,True,True,True
+Quebec,C15,2015,True,True,True,True
+Quebec,C15,2016,True,True,True,True
+Quebec,C15,2017,True,True,True,True
+Quebec,C15,2018,True,True,True,True
+Quebec,C15,2019,True,True,True,True
+Quebec,C15,2020,True,True,True,True
+Quebec,C15,2021,True,True,True,True
+Quebec,C15,2022,True,True,True,True
+Quebec,C15,2023,True,True,True,True
+Quebec,C15,2024,True,True,True,True
+Quebec,C16,2011,True,True,True,True
+Quebec,C16,2012,True,True,True,True
+Quebec,C16,2013,True,True,True,True
+Quebec,C16,2014,True,True,True,True
+Quebec,C16,2015,True,True,True,True
+Quebec,C16,2016,True,True,True,True
+Quebec,C16,2017,True,True,True,True
+Quebec,C16,2018,True,True,True,True
+Quebec,C16,2019,True,True,True,True
+Quebec,C16,2020,True,True,True,True
+Quebec,C16,2021,True,True,True,True
+Quebec,C16,2022,True,True,True,True
+Quebec,C16,2023,True,True,True,True
+Quebec,C16,2024,True,True,True,True
+Quebec,C17,2011,True,True,True,True
+Quebec,C17,2012,True,True,True,True
+Quebec,C17,2013,True,True,True,True
+Quebec,C17,2014,True,True,True,True
+Quebec,C17,2015,True,True,True,True
+Quebec,C17,2016,True,True,True,True
+Quebec,C17,2017,True,True,True,True
+Quebec,C17,2018,True,True,True,True
+Quebec,C17,2019,True,True,True,True
+Quebec,C17,2020,True,True,True,True
+Quebec,C17,2021,True,True,True,True
+Quebec,C17,2022,True,True,True,True
+Quebec,C17,2023,True,True,True,True
+Quebec,C17,2024,True,True,True,True
+Quebec,C18,2011,True,True,True,True
+Quebec,C18,2012,True,True,True,True
+Quebec,C18,2013,True,True,True,True
+Quebec,C18,2014,True,True,True,True
+Quebec,C18,2015,True,True,True,True
+Quebec,C18,2016,True,True,True,True
+Quebec,C18,2017,True,True,True,True
+Quebec,C18,2018,True,True,True,True
+Quebec,C18,2019,True,True,True,True
+Quebec,C18,2020,True,True,True,True
+Quebec,C18,2021,True,True,True,True
+Quebec,C18,2022,True,True,True,True
+Quebec,C18,2023,True,True,True,True
+Quebec,C18,2024,True,True,True,True
+Quebec,C19,2011,True,True,True,True
+Quebec,C19,2012,True,True,True,True
+Quebec,C19,2013,True,True,True,True
+Quebec,C19,2014,True,True,True,True
+Quebec,C19,2015,True,True,True,True
+Quebec,C19,2016,True,True,True,True
+Quebec,C19,2017,True,True,True,True
+Quebec,C19,2018,True,True,True,True
+Quebec,C19,2019,True,True,True,True
+Quebec,C19,2020,True,True,True,True
+Quebec,C19,2021,True,True,True,True
+Quebec,C19,2022,True,True,True,True
+Quebec,C19,2023,True,True,True,True
+Quebec,C19,2024,True,True,True,True
+Quebec,C21,2011,True,True,True,True
+Quebec,C21,2012,True,True,True,True
+Quebec,C21,2013,True,True,True,True
+Quebec,C21,2014,True,True,True,True
+Quebec,C21,2015,True,True,True,True
+Quebec,C21,2016,True,True,True,True
+Quebec,C21,2017,True,True,True,True
+Quebec,C21,2018,True,True,True,True
+Quebec,C21,2019,True,True,True,True
+Quebec,C21,2020,True,True,True,True
+Quebec,C21,2021,True,True,True,True
+Quebec,C21,2022,True,True,True,True
+Quebec,C21,2023,True,True,True,True
+Quebec,C21,2024,True,True,True,True
+Quebec,C22,2011,True,True,True,True
+Quebec,C22,2012,True,True,True,True
+Quebec,C22,2013,True,True,True,True
+Quebec,C22,2014,True,True,True,True
+Quebec,C22,2015,True,True,True,True
+Quebec,C22,2016,True,True,True,True
+Quebec,C22,2017,True,True,True,True
+Quebec,C22,2018,True,True,True,True
+Quebec,C22,2019,True,True,True,True
+Quebec,C22,2020,True,True,True,True
+Quebec,C22,2021,True,True,True,True
+Quebec,C22,2022,True,True,True,True
+Quebec,C22,2023,True,True,True,True
+Quebec,C22,2024,True,True,True,True
+Saskatchewan,C11,2011,True,True,True,True
+Saskatchewan,C11,2012,True,True,True,True
+Saskatchewan,C11,2013,True,True,True,True
+Saskatchewan,C11,2014,True,True,True,True
+Saskatchewan,C11,2015,True,True,True,True
+Saskatchewan,C11,2016,True,True,True,True
+Saskatchewan,C11,2017,True,True,True,True
+Saskatchewan,C11,2018,True,True,True,True
+Saskatchewan,C11,2019,True,True,True,True
+Saskatchewan,C11,2020,True,True,True,True
+Saskatchewan,C11,2021,True,True,True,True
+Saskatchewan,C11,2022,True,True,True,True
+Saskatchewan,C11,2023,True,True,True,True
+Saskatchewan,C11,2024,True,True,True,True
+Saskatchewan,C12,2011,True,True,True,True
+Saskatchewan,C12,2012,True,True,True,True
+Saskatchewan,C12,2013,True,True,True,True
+Saskatchewan,C12,2014,True,True,True,True
+Saskatchewan,C12,2015,True,True,True,True
+Saskatchewan,C12,2016,True,True,True,True
+Saskatchewan,C12,2017,True,True,True,True
+Saskatchewan,C12,2018,True,True,True,True
+Saskatchewan,C12,2019,True,True,True,True
+Saskatchewan,C12,2020,True,True,True,True
+Saskatchewan,C12,2021,True,True,True,True
+Saskatchewan,C12,2022,True,True,True,True
+Saskatchewan,C12,2023,True,True,True,True
+Saskatchewan,C12,2024,True,True,True,True
+Saskatchewan,C13,2011,True,True,True,True
+Saskatchewan,C13,2012,True,True,True,True
+Saskatchewan,C13,2013,True,True,True,True
+Saskatchewan,C13,2014,True,True,True,True
+Saskatchewan,C13,2015,True,True,True,True
+Saskatchewan,C13,2016,True,True,True,True
+Saskatchewan,C13,2017,True,True,True,True
+Saskatchewan,C13,2018,True,True,True,True
+Saskatchewan,C13,2019,True,True,True,True
+Saskatchewan,C13,2020,True,True,True,True
+Saskatchewan,C13,2021,True,True,True,True
+Saskatchewan,C13,2022,True,True,True,True
+Saskatchewan,C13,2023,True,True,True,True
+Saskatchewan,C13,2024,True,True,True,True
+Saskatchewan,C14,2011,True,True,True,True
+Saskatchewan,C14,2012,True,True,True,True
+Saskatchewan,C14,2013,True,True,True,True
+Saskatchewan,C14,2014,True,True,True,True
+Saskatchewan,C14,2015,True,True,True,True
+Saskatchewan,C14,2016,True,True,True,True
+Saskatchewan,C14,2017,True,True,True,True
+Saskatchewan,C14,2018,True,True,True,True
+Saskatchewan,C14,2019,True,True,True,True
+Saskatchewan,C14,2020,True,True,True,True
+Saskatchewan,C14,2021,True,True,True,True
+Saskatchewan,C14,2022,True,True,True,True
+Saskatchewan,C14,2023,True,True,True,True
+Saskatchewan,C14,2024,True,True,True,True
+Saskatchewan,C15,2011,True,True,True,True
+Saskatchewan,C15,2012,True,True,True,True
+Saskatchewan,C15,2013,True,True,True,True
+Saskatchewan,C15,2014,True,True,True,True
+Saskatchewan,C15,2015,True,True,True,True
+Saskatchewan,C15,2016,True,True,True,True
+Saskatchewan,C15,2017,True,True,True,True
+Saskatchewan,C15,2018,True,True,True,True
+Saskatchewan,C15,2019,True,True,True,True
+Saskatchewan,C15,2020,True,True,True,True
+Saskatchewan,C15,2021,True,True,True,True
+Saskatchewan,C15,2022,True,True,True,True
+Saskatchewan,C15,2023,True,True,True,True
+Saskatchewan,C15,2024,True,True,True,True
+Saskatchewan,C16,2011,True,True,True,True
+Saskatchewan,C16,2012,True,True,True,True
+Saskatchewan,C16,2013,True,True,True,True
+Saskatchewan,C16,2014,True,True,True,True
+Saskatchewan,C16,2015,True,True,True,True
+Saskatchewan,C16,2016,True,True,True,True
+Saskatchewan,C16,2017,True,True,True,True
+Saskatchewan,C16,2018,True,True,True,True
+Saskatchewan,C16,2019,True,True,True,True
+Saskatchewan,C16,2020,True,True,True,True
+Saskatchewan,C16,2021,True,True,True,True
+Saskatchewan,C16,2022,True,True,True,True
+Saskatchewan,C16,2023,True,True,True,True
+Saskatchewan,C16,2024,True,True,True,True
+Saskatchewan,C17,2011,True,True,True,True
+Saskatchewan,C17,2012,True,True,True,True
+Saskatchewan,C17,2013,True,True,True,True
+Saskatchewan,C17,2014,True,True,True,True
+Saskatchewan,C17,2015,True,True,True,True
+Saskatchewan,C17,2016,True,True,True,True
+Saskatchewan,C17,2017,True,True,True,True
+Saskatchewan,C17,2018,True,True,True,True
+Saskatchewan,C17,2019,True,True,True,True
+Saskatchewan,C17,2020,True,True,True,True
+Saskatchewan,C17,2021,True,True,True,True
+Saskatchewan,C17,2022,True,True,True,True
+Saskatchewan,C17,2023,True,True,True,True
+Saskatchewan,C17,2024,True,True,True,True
+Saskatchewan,C18,2011,True,True,True,True
+Saskatchewan,C18,2012,True,True,True,True
+Saskatchewan,C18,2013,True,True,True,True
+Saskatchewan,C18,2014,True,True,True,True
+Saskatchewan,C18,2015,True,True,True,True
+Saskatchewan,C18,2016,True,True,True,True
+Saskatchewan,C18,2017,True,True,True,True
+Saskatchewan,C18,2018,True,True,True,True
+Saskatchewan,C18,2019,True,True,True,True
+Saskatchewan,C18,2020,True,True,True,True
+Saskatchewan,C18,2021,True,True,True,True
+Saskatchewan,C18,2022,True,True,True,True
+Saskatchewan,C18,2023,True,True,True,True
+Saskatchewan,C18,2024,True,True,True,True
+Saskatchewan,C19,2011,True,True,True,True
+Saskatchewan,C19,2012,True,True,True,True
+Saskatchewan,C19,2013,True,True,True,True
+Saskatchewan,C19,2014,True,True,True,True
+Saskatchewan,C19,2015,True,True,True,True
+Saskatchewan,C19,2016,True,True,True,True
+Saskatchewan,C19,2017,True,True,True,True
+Saskatchewan,C19,2018,True,True,True,True
+Saskatchewan,C19,2019,True,True,True,True
+Saskatchewan,C19,2020,True,True,True,True
+Saskatchewan,C19,2021,True,True,True,True
+Saskatchewan,C19,2022,True,True,True,True
+Saskatchewan,C19,2023,True,True,True,True
+Saskatchewan,C19,2024,True,True,True,True
+Saskatchewan,C21,2011,True,True,True,True
+Saskatchewan,C21,2012,True,True,True,True
+Saskatchewan,C21,2013,True,True,True,True
+Saskatchewan,C21,2014,True,True,True,True
+Saskatchewan,C21,2015,True,True,True,True
+Saskatchewan,C21,2016,True,True,True,True
+Saskatchewan,C21,2017,True,True,True,True
+Saskatchewan,C21,2018,True,True,True,True
+Saskatchewan,C21,2019,True,True,True,True
+Saskatchewan,C21,2020,True,True,True,True
+Saskatchewan,C21,2021,True,True,True,True
+Saskatchewan,C21,2022,True,True,True,True
+Saskatchewan,C21,2023,True,True,True,True
+Saskatchewan,C21,2024,True,True,True,True
+Saskatchewan,C22,2011,True,True,True,True
+Saskatchewan,C22,2012,True,True,True,True
+Saskatchewan,C22,2013,True,True,True,True
+Saskatchewan,C22,2014,True,True,True,True
+Saskatchewan,C22,2015,True,True,True,True
+Saskatchewan,C22,2016,True,True,True,True
+Saskatchewan,C22,2017,True,True,True,True
+Saskatchewan,C22,2018,True,True,True,True
+Saskatchewan,C22,2019,True,True,True,True
+Saskatchewan,C22,2020,True,True,True,True
+Saskatchewan,C22,2021,True,True,True,True
+Saskatchewan,C22,2022,True,True,True,True
+Saskatchewan,C22,2023,True,True,True,True
+Saskatchewan,C22,2024,True,True,True,True

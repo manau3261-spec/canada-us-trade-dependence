@@ -1,0 +1,10 @@
+month,scope,consumption_customs_value_usd,dutiable_value_usd,calculated_duty_usd,raw_rows_nonzero,calculated_duties_over_consumption_value
+202501,candidate_upstream_control,129368572,0,0,95,0.0
+202501,covered_core_232,637544932,11822,0,778,0.0
+202501,excluded_from_core_check_derivative,1858113,0,0,8,0.0
+202504,candidate_upstream_control,124193925,677922,128374,124,0.001033657644687532
+202504,covered_core_232,446924586,405670518,102039795,841,0.2283154657327355
+202504,excluded_from_core_check_derivative,1796756,45469,8414,13,0.004682884042129259
+202505,candidate_upstream_control,126785844,222586,40316,129,0.000317985026782643
+202505,covered_core_232,411796108,370785736,93065099,784,0.22599800530412006
+202505,excluded_from_core_check_derivative,2267591,0,0,13,0.0

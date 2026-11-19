@@ -1,0 +1,26 @@
+:root { color-scheme: light; --ink: #183446; --body: #203847; --muted: #476171; --rule: #cddde3; --accent: #106b60; background: #edf3f6; }
+* { box-sizing: border-box; }
+body { margin:0; color:var(--body); font: 1.08rem/1.67 Georgia,"Times New Roman",serif; }
+main { width:min(1050px,100%); min-height:100vh; margin:auto; padding:clamp(1.2rem,6vw,5.1rem); background:#fff; }
+h1,h2,h3,nav,caption,thead { font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color:var(--ink); }
+h1 { font-size:clamp(2.1rem,5vw,3.6rem); font-weight:720; letter-spacing:-.045em; line-height:1.09; margin:0 0 .85rem; max-width:31ch; }
+h1+p { color:var(--accent); font:700 .88rem/1.4 system-ui,sans-serif; text-transform:uppercase; letter-spacing:.045em; }
+h1+p+p { color:var(--muted); font-size:.96rem; }
+h2 { font-size:clamp(1.25rem,3vw,1.62rem); letter-spacing:-.017em; line-height:1.25; margin:2.1rem 0 .75rem; padding-top:.85rem; border-top:1px solid var(--rule); }
+h3 { font-size:1.11rem; }
+p { margin:.8rem 0; } ul { padding-left:1.35rem; } li { margin:.45rem 0; }
+a { color:#0d655c; text-underline-offset:.18em; }
+a:focus-visible { outline:2px solid var(--accent); outline-offset:4px; border-radius:2px; }
+nav { border:1px solid var(--rule); background:#f1f7f7; border-radius:.5rem; padding:.85rem 1rem; margin:1.4rem 0; font-size:.90rem; }
+nav ol { list-style:none; padding:0; margin:.35rem 0; columns:2; column-gap:1.8rem; } nav li { break-inside:avoid; }
+figure { margin:1.35rem 0; padding:.85rem .8rem .65rem; border:1px solid var(--rule); border-radius:.5rem; }
+figure img { width:100%; height:auto; display:block; }
+figcaption { margin:.55rem .25rem .1rem; font-size:.90rem; line-height:1.45; color:var(--muted); }
+.table-wrap { overflow-x:auto; margin:1.25rem 0; }
+table { width:100%; border-collapse:collapse; line-height:1.35; font-size:.94rem; font-variant-numeric:tabular-nums; }
+thead th { text-align:left; color:var(--ink); background:#e8f1f4; font-weight:670; }
+td,th { vertical-align:top; padding:.46rem .50rem; border-bottom:1px solid var(--rule); }
+tr:nth-child(even) td { background:#f8fafb; }
+code { white-space:normal; overflow-wrap:anywhere; font-size:.87em; color:var(--ink); font-family:system-ui,sans-serif; background:#edf4f5; padding:.06rem .24rem; }
+@media(max-width:620px){nav ol{columns:1;} figure{padding:.4rem;} body{font-size:1rem;} th,td{padding:.38rem;}}
+@media print{body,main{background:white;} main{padding:0;} figure{break-inside:avoid;}}

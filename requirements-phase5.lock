@@ -1,0 +1,13 @@
+# Paper generation, independent replication and automated tests.
+-r requirements.txt
+iniconfig==2.3.1
+markdown-it-py==4.0.0
+mdurl==0.1.2
+patsy==1.0.2
+pluggy==1.7.0
+pygments==2.21.0
+pymupdf==1.27.2.2
+pytest==9.0.2
+scipy==1.17.1
+statsmodels==0.14.6
+typst==0.14.9

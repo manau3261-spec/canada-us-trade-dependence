@@ -1,0 +1,5 @@
+Rebuilding annual trade and checking all input hashes
+Preflight passed: n=1454, rank=371, provinces=10
+Estimating primary model and validating restricted inference
+Estimating registered secondary specifications
+Completed: 26 robustness fits attempted

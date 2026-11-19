@@ -1,0 +1,5 @@
+Browser check: Codex in-app browser, local loopback only.
+Desktop viewport 1366 × 920: opened national view, changed Annual to Monthly, and observed the separate 2025-01–2026-09 range, table 12-10-0175-01 source link, and matched January–September benchmark.
+Accessibility snapshot exposed navigation radio groups, labelled period handles, chart controls and descriptions, source links, expandable tables and named CSV buttons.
+Mobile viewport 390 × 844: document scroll width was 390 px. Four KPI cards stacked at 358 px each. Plotly chart was present. Viewport override reset.
+Automated operation: all eight sections in both languages. The automated test replays the filtered CSV through the actual Streamlit media route and verifies the HTTP 200 response, attachment filename, MIME type and exact data. The browser download-event observation was interrupted, so no browser file-save outcome is counted as a pass.

@@ -1,0 +1,9 @@
+{
+  "python": "3.14.8",
+  "platform": "Darwin",
+  "arch": "arm64",
+  "health_seconds": 0.452,
+  "first_verified_csv_seconds": 1.648,
+  "peak_child_rss_mib": 249.6,
+  "result": "HTTP 200 index, favicon, health and CSV | UTF-8 attachment | 16 rows | exact values and column order | no credentials"
+}

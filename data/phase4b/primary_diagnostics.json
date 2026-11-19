@@ -1,0 +1,78 @@
+{
+  "design": {
+    "n": 1454,
+    "fixed_effect_rank": 368,
+    "slope_rank": 3,
+    "design_rank": 371,
+    "residual_df": 1083,
+    "province_clusters": 10,
+    "product_clusters": 11,
+    "province_product_groups": 108,
+    "hhi_or_alternative_raw_sd": 0.16126305595762894,
+    "predictor_fe_residual_sd": 0.08556157937862784,
+    "predictor_fully_partialled_sd": 0.08358771440770155,
+    "predictor_fully_partialled_ss": 10.158961323859657,
+    "slope_scaled_condition_number": 2.0598923667909084,
+    "scaled_slope_singular_values": [
+      49.62702761830885,
+      36.31434027808495,
+      24.092048894584938
+    ],
+    "effective_provinces_partial_leverage": 7.891027150999421,
+    "max_province_partial_leverage": 0.178457463860576,
+    "level_counts": {
+      "province_product": 108,
+      "product_year": 154,
+      "province_year": 140
+    }
+  },
+  "fit": {
+    "rss": 194.70246376666444,
+    "r_squared": 0.5186036429827197,
+    "adjusted_r_squared": 0.35413766690110027,
+    "within_r_squared": 0.008620233014143608,
+    "rmse_log_points": 0.424005505032583,
+    "mean_outcome": 0.3190790112130376,
+    "median_outcome": 0.1632779680855041
+  },
+  "explicit_statsmodels_validation": {
+    "max_coefficient_error": 6.439293542825908e-15,
+    "max_residual_error": 9.707512571566213e-14,
+    "max_cluster_variance_errors": {
+      "province": 2.021577349964332e-13,
+      "product": 1.2313761121873767e-13,
+      "province_product": 1.3088141681549814e-13,
+      "province_and_product": 1.944000516118649e-13
+    }
+  },
+  "webb_wild_restricted": {
+    "p_at_zero": 0.7174,
+    "draws": 9999,
+    "seed": 20261118,
+    "standard_error_used_to_studentize": 0.3618335913628097,
+    "ci_95_beta_components": [
+      [
+        -0.6048669586398414,
+        1.052539906451989
+      ]
+    ],
+    "scan_range": [
+      -4.213730972822713,
+      4.470275219884719
+    ],
+    "mc_se_at_zero": 0.00450286037704452,
+    "mc_se_near_0_05": 0.002179558452417542,
+    "direct_refit_cross_check": {
+      "draws_per_null": 24,
+      "nulls": 2,
+      "max_t_error": 9.325873406851315e-15
+    }
+  },
+  "software": {
+    "python": "3.14.8",
+    "numpy": "2.4.4",
+    "pandas": "3.0.2",
+    "scipy": "1.17.1",
+    "statsmodels": "0.14.6"
+  }
+}

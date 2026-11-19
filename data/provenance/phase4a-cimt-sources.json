@@ -1,0 +1,50 @@
+{
+  "2024": {
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Dom_Exp_2024.zip",
+    "path": "data/raw/phase4a/cimt_domestic_2024-7b2ed0a9d3ca.zip",
+    "sha256": "7b2ed0a9d3ca824ac152f1ab490b989345c7fcd7c7ad0f4e8bd2c7d30d0804b1",
+    "downloaded_at_utc": "2026-11-19T01:22:35+00:00",
+    "last_modified": "Thu, 19 Feb 2026 13:31:11 GMT",
+    "bytes": 23771815,
+    "members": [
+      "CIMT-CICM_Dom_Exp_2024/",
+      "CIMT-CICM_Dom_Exp_2024/ODPFN016_202412N.csv",
+      "CIMT-CICM_Dom_Exp_2024/ODPFN018_202412N.csv",
+      "CIMT-CICM_Dom_Exp_2024/ODPFN020_202412N.csv",
+      "CIMT-CICM_Dom_Exp_2024/Note to User.docx",
+      "CIMT-CICM_Dom_Exp_2024/Note aux utilisateurs.docx",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_9_UOMDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_2_HS8Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_4_HS6XDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_5_HS2Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_6_CtyDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_7_StateDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2024/ODPF_8_ProvDesc.TXT"
+    ],
+    "status": "downloaded"
+  },
+  "2025": {
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Dom_Exp_2025.zip",
+    "path": "data/raw/phase4a/cimt_domestic_2025-71f150a6befd.zip",
+    "sha256": "71f150a6befd58c9a9323478234c764b56eecbc5dc1d32aeb004fe4bc9dfd366",
+    "downloaded_at_utc": "2026-11-19T01:22:37+00:00",
+    "last_modified": "Wed, 04 Nov 2026 13:30:54 GMT",
+    "bytes": 24651619,
+    "members": [
+      "CIMT-CICM_Dom_Exp_2025/",
+      "CIMT-CICM_Dom_Exp_2025/ODPFN020_202512N.csv",
+      "CIMT-CICM_Dom_Exp_2025/Note to User.docx",
+      "CIMT-CICM_Dom_Exp_2025/Note aux utilisateurs.docx",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_2_HS8Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_4_HS6XDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_5_HS2Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_6_CtyDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_7_StateDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_8_ProvDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPF_9_UOMDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2025/ODPFN016_202512N.csv",
+      "CIMT-CICM_Dom_Exp_2025/ODPFN018_202512N.csv"
+    ],
+    "status": "downloaded"
+  }
+}

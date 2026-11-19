@@ -1,0 +1,163 @@
+{
+  "preregistration": {
+    "file": "docs/phase4b_preregistered_specification.md",
+    "registered_at_utc": "2026-11-19T02:25:24.668460+00:00",
+    "sha256": "7e3ca592b66be5aaa960da5cd55e0fa6f6ea798f2abb35bc47cbcd1efb46c374",
+    "status": "locked before coefficient estimation"
+  },
+  "input_hashes": {
+    "data/phase3/phase3_summary.json": "c361e5244424de4645dfa1990f6cee65237e337cc3ec2c9695b95835087de06a",
+    "data/phase4a/manifest.json": "762a0616ffa2b3fdc05327af2798985817977a5fef7d63b45b93362834c789a6",
+    "data/provenance/acquisition-20261119T001720Z-cacfc394.json": "f414eb56178dad3a631a61805bd993be9d7845ab0b6d81381af952e424e91f8a",
+    "data/raw/12100173/8c9ee285a609710b6bc85a20f69dd3f363b645e97107b9c40ad042b691170beb.zip": "8c9ee285a609710b6bc85a20f69dd3f363b645e97107b9c40ad042b691170beb",
+    "data/phase3/annual_exposure.csv": "92f0f47740abb69dd025c9b92597b811eb1fbae91c5bc6cc2a9fa87ec90462ab",
+    "data/phase4a/design_C_coverage.csv": "3f732b3fc136ffccea1dcd19c31f4bfa6871e6e8bd8a88fed2ee3061038b50e5"
+  },
+  "sample": {
+    "destination": {
+      "groups": 1760,
+      "comparable": 1760,
+      "within_rounding": 1760,
+      "outside_rounding": 0,
+      "unavailable": 0,
+      "max_abs_gap_cad_thousands": 1.1999999999534339,
+      "median_abs_gap_outside_rounding_cad_thousands": null
+    },
+    "world_rows_missing_numeric": 0,
+    "us_rows_missing_numeric": 0,
+    "world_zero": 4,
+    "us_greater_than_world": 0,
+    "groups_with_unallocated_nonzero": 2,
+    "groups_with_missing_component_value": 0,
+    "groups_missing_expected_partner_rows": 0,
+    "groups_with_suppressed_or_unreliable_components": 0,
+    "groups_with_negative_components": 0,
+    "product_sections": {
+      "groups": 41440,
+      "comparable": 0,
+      "within_rounding": 0,
+      "outside_rounding": 0,
+      "unavailable": 41440,
+      "max_abs_gap_cad_thousands": null,
+      "median_abs_gap_outside_rounding_cad_thousands": null
+    },
+    "product_sections_world_us": {
+      "groups": 320,
+      "comparable": 0,
+      "within_rounding": 0,
+      "outside_rounding": 0,
+      "unavailable": 320,
+      "max_abs_gap_cad_thousands": null,
+      "median_abs_gap_outside_rounding_cad_thousands": null
+    },
+    "by_section": {
+      "C11": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C12": {
+        "groups": 160,
+        "world_nonzero": 156
+      },
+      "C13": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C14": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C15": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C16": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C17": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C18": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C19": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C21": {
+        "groups": 160,
+        "world_nonzero": 160
+      },
+      "C22": {
+        "groups": 160,
+        "world_nonzero": 160
+      }
+    },
+    "raw_trade_rows": 455840,
+    "source_year_cells": 1760,
+    "expected_detail_partners": 258,
+    "full_grid": 1540,
+    "phase4a_eligible": 1513,
+    "eligible_and_controls": 1513,
+    "floor_eligible_before_singletons": 1454,
+    "primary_n": 1454,
+    "main_groups": 108,
+    "main_complete_groups": 98,
+    "pre_estimation_lagged_cad_quantiles": {
+      "q0": 33899.99999990687,
+      "q1": 211403.9999999998,
+      "q2.5": 473339.9999999995,
+      "q5": 1282900.0,
+      "q50": 229865800.00000006,
+      "q100": 25456221999.999996
+    },
+    "exclusion_flags": {
+      "exclude_lag_HHI_unavailable": 24,
+      "exclude_lag_controls_unavailable": 8,
+      "exclude_lag_below_portfolio_floor": 83,
+      "exclude_start_unavailable": 0,
+      "exclude_start_zero": 9,
+      "exclude_end_unavailable": 0,
+      "exclude_end_zero": 9
+    },
+    "singleton_rows": 0,
+    "any_non_us_zero_year_cells": 10,
+    "unavailable_non_us_year_cells": 0
+  },
+  "prespecified_selection_check": {
+    "rows_with_known_end": 1454,
+    "zero_ends": 0,
+    "provinces_with_zero_end": 0
+  },
+  "design": {
+    "n": 1454,
+    "fixed_effect_rank": 368,
+    "slope_rank": 3,
+    "design_rank": 371,
+    "residual_df": 1083,
+    "province_clusters": 10,
+    "product_clusters": 11,
+    "province_product_groups": 108,
+    "hhi_or_alternative_raw_sd": 0.16126305595762894,
+    "predictor_fe_residual_sd": 0.08556157937862784,
+    "predictor_fully_partialled_sd": 0.08358771440770155,
+    "predictor_fully_partialled_ss": 10.158961323859657,
+    "slope_scaled_condition_number": 2.0598923667909084,
+    "scaled_slope_singular_values": [
+      49.62702761830885,
+      36.31434027808495,
+      24.092048894584938
+    ],
+    "effective_provinces_partial_leverage": 7.891027150999421,
+    "max_province_partial_leverage": 0.178457463860576,
+    "level_counts": {
+      "province_product": 108,
+      "product_year": 154,
+      "province_year": 140
+    }
+  },
+  "model_input_sha256": "01530e92be2ba844acfffd53e90afbf499d994ee9080bae36635a9206246ba1f"
+}

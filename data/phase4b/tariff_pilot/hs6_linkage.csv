@@ -1,0 +1,201 @@
+hs6,us_hts10_lines,us_hts8_lines,scopes,scope,hts4_family,steel_legal_block,ca_dictionary_years,ca_description_versions,ca_uom_versions,canada_hs6_description,stable_ca_hs6_dictionary,active_in_selected_canadian_destinations
+720110,1,1,1,candidate_upstream_control,7201,upstream,4,1,1,"Pig iron, non-alloy,containing by weight <=0.5% of phosphorus in primary forms",True,True
+720120,1,1,1,candidate_upstream_control,7201,upstream,4,1,1,"Pig iron, non-alloy,containing by weight >0.5% of phosphorus in primary forms",True,True
+720150,2,2,1,candidate_upstream_control,7201,upstream,4,1,1,Alloy pig iron; spiegeleisen,True,False
+720211,2,2,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-manganese, containing by weight more than 2% of carbon",True,True
+720219,2,2,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-manganese, nes",True,True
+720221,4,4,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-silicon, containing by weight more than 55% of silicon",True,True
+720229,2,1,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-silicon, nes",True,True
+720230,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-silico-manganese,True,False
+720241,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-chromium containing by weight more than 4% of carbon,True,True
+720249,3,2,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-chromium, nes",True,True
+720250,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-silico-chromium,True,False
+720260,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-nickel,True,True
+720270,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-molybdenum,True,True
+720280,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-tungsten and ferro-silico-tungsten,True,False
+720291,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-titanium and ferro-silico-titanium,True,True
+720292,1,1,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-vanadium,True,True
+720293,2,2,1,candidate_upstream_control,7202,upstream,4,1,1,Ferro-niobium,True,True
+720299,4,3,1,candidate_upstream_control,7202,upstream,4,1,1,"Ferro-alloys, nes",True,True
+720310,1,1,1,candidate_upstream_control,7203,upstream,4,1,1,"Ferrous products obtained by direct reduction of iron ore, nes",True,True
+720390,1,1,1,candidate_upstream_control,7203,upstream,4,1,1,"Spongy ferrous products, or iron having a minimum purity by weight of 99.94%",True,True
+720410,1,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Waste and scrap, cast iron",True,True
+720421,1,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Waste and scrap, stainless steel",True,True
+720429,1,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Waste and scrap, of alloy steel, other than stainless",True,True
+720430,1,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Waste and scrap, of tinned iron or steel",True,True
+720441,4,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Ferrous waste and scrap, i or s, from the mechanical working of metal, nes",True,True
+720449,5,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Ferrous waste and scrap, iron or steel, nes",True,True
+720450,1,1,1,candidate_upstream_control,7204,upstream,4,1,1,"Remelting scrap ingots, of iron or steel",True,True
+720510,1,1,1,candidate_upstream_control,7205,upstream,4,1,1,Granules of pig iron or spiegeleisen,True,True
+720521,1,1,1,candidate_upstream_control,7205,upstream,4,1,1,"Powders, alloy steel",True,True
+720529,1,1,1,candidate_upstream_control,7205,upstream,4,1,1,"Powders, iron or steel, other than alloy",True,True
+720610,1,1,1,covered_core_232,7206,primary_semifinished,4,1,1,"Ingots, iron or non-alloy steel, of a purity of less than 99.94% iron",True,True
+720690,1,1,1,covered_core_232,7206,primary_semifinished,4,1,1,"Primary forms, iron or non-alloy steel, nes, of a purity less than 99.94% iron",True,True
+720711,1,1,1,covered_core_232,7207,primary_semifinished,4,1,1,"Semi-fin prod, i/nas, rect/sq cross-sect,cont by wt <0.25% carb,width < 2X thick",True,True
+720712,2,1,1,covered_core_232,7207,primary_semifinished,4,1,1,"Semi-fin prod, iron/n-al steel, rect/sq cross sect,cont by wt <0.25% carbon,nes",True,True
+720719,2,1,1,covered_core_232,7207,primary_semifinished,4,1,1,"Semi-finished products, iron or non-alloy steel, cont by wt <0.25% carbon, nes",True,True
+720720,4,1,1,covered_core_232,7207,primary_semifinished,4,1,1,"Semi-finished prod, iron or non-alloy steel,cont by weight 0.25% or more carbon",True,True
+720810,3,3,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, in coil, hr, >= 600 mm wide, with patterns in relief",True,True
+720825,2,2,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat roll prod, i/nas,in coil,hr,n clad,pickled, >= 600 mm wide,thick >= 4.75 mm",True,True
+720826,2,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat roll prod,i/nas,in coil,hr,n clad,pkld, >= 600mm wd,thick >=3mm but <4.75mm",True,True
+720827,3,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas,in coil,hr,n clad, pickled, >= 600 mm wide, thick < 3 mm",True,True
+720836,2,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled products, i/nas,in coil, hr, n clad,>= 600 mm wide,thick > 10 mm,nes",True,True
+720837,2,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, in coil, hr,>=600mm wide,>=4.75mm thk but<=10mm thk,nes",True,True
+720838,3,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, in coil, hot rolled,>=600mm wide,3mm>=thk <4.75mm,nes",True,True
+720839,4,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, in coil, hr, n clad, >= 600 mm wide, thick < 3 mm, nes",True,True
+720840,4,2,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, nic, hr, n clad,with patterns in relief, >= 600 mm wide",True,True
+720851,3,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, not in coil, hr,>=600mm wide, >10mm thk, nes",True,True
+720852,1,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas,not in coil,hr, >=600mm wide,>=4.75mm<=10mm thk, nes",True,True
+720853,1,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas,nic,hr,n clad, >=600mm wide,thick >=3mm but < 4.75mm,nes",True,True
+720854,1,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat rolled prod, i/nas, nic, hr,n clad,>= 600 mm wide, less than 3 mm thick,nes",True,True
+720890,1,1,1,covered_core_232,7208,flat_rolled,4,1,1,"Flat-rolled prod, i/nas,of width >= 600 mm,hot-rolled,not clad/plated/coated,nes",True,True
+720915,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat rolled prod, i/nas, in coil, cold rolled,n clad, >= 600mm wide,thick >= 3mm",True,True
+720916,5,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod,i/nas,in coil,cold roll,n clad, >=600mm wide,thick >1mm but < 3mm",True,True
+720917,5,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod,i/nas,in coil,cold roll,n clad, >=600mm wd,thick >=0.5mm but <1mm",True,True
+720918,6,3,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod, i/nas, in coil, cold roll, n clad, >=600 mm wide, thick < 0.5 mm",True,True
+720925,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat rolled prod, i/nas, nic, cold rolled, n clad, >= 600mm wide, thick >= 3mm",True,True
+720926,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod, i/nas, nic, cold roll, n clad, >=600mm wide,thick >1mm but < 3mm",True,True
+720927,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod,i/nas,nic,cold roll,n clad, >=600mm wide, thick >=0.5mm but < 1mm",True,True
+720928,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat roll prod, i/nas, nic, cold roll, n clad, >=600 mm wide, thick < 0.5 mm",True,True
+720990,1,1,1,covered_core_232,7209,flat_rolled,4,1,1,"Flat-rolled prod, i/nas,of width >= 600mm,cold rolled,not clad/plated/coated,nes",True,True
+721011,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, plated or coated with tin,>=600mm wide,>=0.5mm thk",True,True
+721012,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, plated or coated with tin,>=600mm wide, <0.5mm thk",True,True
+721020,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, >=600mm wide, plated/coated with lead, incl terne-plate",True,True
+721030,2,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled products, steel,electrol plated or coated with zinc,>=600mm wide",True,True
+721041,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, pltd or ctd w zinc, corrugated, >= 600 mm wide, nes",True,True
+721049,4,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, plated or coated with zinc,>= 600 mm wide, nes",True,True
+721050,2,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod,i/nas, pltd or ctd w chrom oxides/chrom w chrom oxides,>=600mm",True,True
+721061,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, plated or coat w aluminium-zinc alloys,>=600mm wide",True,True
+721069,1,1,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled products, i/nas, plated or coated with aluminium,>=600mm wide, nes",True,True
+721070,4,2,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, painted, varnished or plast coated, >= 600 mm wide",True,True
+721090,3,3,1,covered_core_232,7210,flat_rolled,4,1,1,"Flat rolled prod, i/nas, clad, plated or coated,>=600mm wide, nes",True,True
+721113,1,1,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled prod, i/nas, hr,rolled on 4 faces,width > 150mm < 600mm,thick >= 4mm",True,True
+721114,3,1,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled prod,iron/non-alloy steel,hot rolled, < 600 mm wide,thick >= 4.75 mm",True,True
+721119,8,6,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled prod, i/nas, hr,<600mm wide <3mm thk myp 275,>=3mm thk myp 355, nes",True,True
+721123,7,5,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled products, i/nas, cold rolled,<600mm wide,cont by wt <0.25% of carbon",True,True
+721129,5,3,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled products, iron or non-alloy steel, cold rolled, < 600mm wide, nes",True,True
+721190,1,1,1,covered_core_232,7211,flat_rolled,4,1,1,"Flat rolled products, i/nas, < 600 mm wide, not clad, plated or coated, nes",True,True
+721210,1,1,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled products, i/nas, < 600 mm wide, plated or coated with tin, nes",True,True
+721220,1,1,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled prod, steel, <600mm wide, electrolytically plated/coated with zinc",True,True
+721230,4,3,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled prod, i/nas, <600mm wide, o/w plated or coated with zinc",True,True
+721240,2,2,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled prod, i/nas, <600mm wide, painted, varnished or coated with plast",True,True
+721250,1,1,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled prod, i/nas, < 600 mm wide, otherwise plated/coated, nes",True,True
+721260,1,1,1,covered_core_232,7212,flat_rolled,4,1,1,"Flat rolled products, iron or non-alloy steel, < 600mm wide, clad",True,True
+721310,1,1,1,covered_core_232,7213,bars_wire_sections,4,1,1,"Bars & rods, i/nas, hr, in irreg wound coils, cont indent, ribs, etc, prod d rp",True,True
+721320,2,1,1,covered_core_232,7213,bars_wire_sections,4,1,1,"Bars & rods, i/nas, hr, in irreg wound coils, of free cutting steel",True,True
+721391,6,3,1,covered_core_232,7213,bars_wire_sections,4,1,1,"Bars/rods, i/nas,hr, in irreg wnd coils of circ cross section, <14mm in dia",True,True
+721399,3,1,1,covered_core_232,7213,bars_wire_sections,4,1,1,"Bars & rods, iron or non-alloy steel, hr, in irregularly wound coils, nes",True,True
+721410,1,1,1,covered_core_232,7214,bars_wire_sections,4,1,1,"Bars & rods, iron or non-alloy steel forged",True,True
+721420,1,1,1,covered_core_232,7214,bars_wire_sections,4,1,1,"Bars and rods, i/nas, hr, hd or he, cont indent, ribs, etc, prod during rp, nes",True,True
+721430,2,1,1,covered_core_232,7214,bars_wire_sections,4,1,1,"Bars & rods, i/nas, hot rolled drawn or extruded of free cutting steel, nes",True,True
+721491,4,1,1,covered_core_232,7214,bars_wire_sections,4,1,1,"Bars & rods, i/nas, hot rolled, drawn or extruded, of rect o/t sq cross sect",True,True
+721499,10,1,1,covered_core_232,7214,bars_wire_sections,4,1,1,"Bars & rods, iron or non-alloy steel, hot rolled, drawn or extruded, nes",True,True
+721510,2,1,1,covered_core_232,7215,bars_wire_sections,4,1,1,"Bars & rods, i/nas, nfw than cold formed or finished of free cutting steel",True,True
+721550,7,1,1,covered_core_232,7215,bars_wire_sections,4,1,1,"Bars & rods, iron or non-alloy steel, nfw than cold formed or finished, nes",True,True
+721590,3,3,1,covered_core_232,7215,bars_wire_sections,4,1,1,"Bars & rods, iron/non-alloy steel, nes",True,True
+721610,2,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections,U, I or H, i/nas,nfw than hot rolled/drawn or extruded, height <80mm",True,True
+721621,1,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, L, i/nas, nfw than hot rolled, drawn or extruded, of a height <80mm",True,True
+721622,1,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, T, i/nas, nfw than hot rolled, drawn or extruded, of a height <80mm",True,True
+721631,1,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, U, i/nas, nfw than hot rolled, drawn or extruded, hght 80mm or more",True,True
+721632,1,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, I, i/nas, nfw than hot rolled, drawn or extruded, hght 80mm or more",True,True
+721633,3,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, H, i/nas, nfw than hot rolled, drawn or extruded, hght 80mm or more",True,True
+721640,2,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Sections, L or T, i/nas, nfw than hot rolled, drawn or extruded, hght>=80mm",True,True
+721650,1,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Angles, shapes and sect, i/nas, nfw than hot rolled/drawn/extruded, hght>=80mm",True,True
+721661,1,1,1,excluded_from_core_check_derivative,7216,,4,1,1,"Angles, shapes & sect,i/nas,nfw than cf or cfi, obtained from flat rolled prod",True,True
+721669,1,1,1,excluded_from_core_check_derivative,7216,,4,1,1,"Angles, shapes and sections, i/nas, nfw than cold formed or cold finished, nes",True,True
+721691,2,1,1,excluded_from_core_check_derivative,7216,,4,1,1,"Angles, shapes and sections, i/nas, cf or cold finished from flat rolled prod",True,True
+721699,2,1,1,covered_core_232,7216,bars_wire_sections,4,1,1,"Angles, shapes and sections, i/nas, cold formed or cold finished, nes",True,True
+721710,19,9,1,covered_core_232,7217,bars_wire_sections,4,1,1,"Wire, iron or non-alloy steel, polished or not, but not plated or coated",True,True
+721720,12,5,1,covered_core_232,7217,bars_wire_sections,4,1,1,"Wire, iron or non-alloy steel, plated or coated with zinc",True,True
+721730,13,5,1,covered_core_232,7217,bars_wire_sections,4,1,1,"Wire, iron or non-alloy steel, plated or coated with other base metals, nes",True,True
+721790,4,2,1,covered_core_232,7217,bars_wire_sections,4,1,1,"Wire, iron or non-alloy steel, nes",True,True
+721810,1,1,1,covered_core_232,7218,stainless,4,1,1,"Ingots and other primary forms, stainless steel",True,True
+721891,3,1,1,covered_core_232,7218,stainless,4,1,1,"Semi-fin products, stainless steel of rectangular, o/t square, cross section",True,True
+721899,5,1,1,covered_core_232,7218,stainless,4,1,1,"Semi-finished products, stainless steel, nes",True,True
+721911,2,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled products, stainless steel, nfwt hr, in coil, >10mm thk, >=600mm wide",True,True
+721912,9,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stain steel,hr,in coil,>=600mm wide,thick >= 4.75mm but <=10mm",True,True
+721913,5,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stain steel,hr,in coil, >=600mm wide, thick >= 3mm but <4.75mm",True,True
+721914,3,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel,hot roll,in coil, >= 600mm wide, thick  < 3mm",True,True
+721921,4,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, hr, nic,>=600mm wide, exceeding 10mm thick",True,True
+721922,10,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, hr, nic,>=600mm wide,>=4.75mm thick<=10mm",True,True
+721923,2,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, hr, nic,>=600mm wide,>=3mm but<4.75mm thk",True,True
+721924,2,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, hr, nic,>=600mm wide, less than 3mm thick",True,True
+721931,2,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stain steel, cold roll, >= 600 mm wide, thick 4.75 mm or more",True,True
+721932,10,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, cr, >=600mm wide,>=3mm thick <4.75mm",True,True
+721933,11,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, cr, >=600mm wide, >1mm thick <3mm",True,True
+721934,6,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, cr, >=600mm wide,>=0.5mm thick<=1mm",True,True
+721935,5,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled prod, stainless steel, cr, >=600mm wide, less than 0.5mm thick",True,True
+721990,5,1,1,covered_core_232,7219,stainless,4,1,1,"Flat rolled products, of stainless steel, of a width of 600 mm or more, nes",True,True
+722011,1,1,1,covered_core_232,7220,stainless,4,1,1,"Flat rolled products,stainless steel,hot rolled, < 600 mm wide,thick  >= 4.75 mm",True,True
+722012,2,2,1,covered_core_232,7220,stainless,4,1,1,"Flat rolled products, stainless steel, hot rolled, < 600 mm wide,thick < 4.75 mm",True,True
+722020,17,5,1,covered_core_232,7220,stainless,4,1,1,"Flat rolled prod, stainless steel, <600mm wide, cold rolled or reduced",True,True
+722090,4,1,1,covered_core_232,7220,stainless,4,1,1,"Flat rolled products, stainless steel, of a width of less than 600mm, nes",True,True
+722100,6,1,1,covered_core_232,7221,stainless,4,1,1,"Bars & rods, stainless steel, hot rolled in irregularly wound coils",True,True
+722211,6,1,1,covered_core_232,7222,stainless,4,1,1,"Bars & rods, stainless steel, nfwt hr/hd/extruded, of circular cross-section",True,True
+722219,4,1,1,covered_core_232,7222,stainless,4,1,1,"Bars & rods, stainless steel, nfw than hot rolled, hot drawn or extruded, nes",True,True
+722220,10,1,1,covered_core_232,7222,stainless,4,1,1,"Bars & rods, stainless steel, nfw than cold formed or cold finished",True,True
+722230,6,1,1,covered_core_232,7222,stainless,4,1,1,"Bars & rods, stainless steel, nes",True,True
+722240,5,2,1,covered_core_232,7222,stainless,4,1,1,"Angles, shapes and sections, stainless steel",True,True
+722300,8,3,1,covered_core_232,7223,stainless,4,1,1,Wire of stainless steel,True,True
+722410,3,1,1,covered_core_232,7224,primary_semifinished,4,1,1,"Ingots and other primary forms of alloy steel, other than stainless",True,True
+722490,8,1,1,covered_core_232,7224,primary_semifinished,4,1,1,"Semi-finished products of alloy steel, other than stainless, nes",True,True
+722511,1,1,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled products,of silicon-electrical steel, >= 600 mm wide, grain oriented",True,True
+722519,1,1,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled products, of silicon-electrical steel, >= 600 mm wide, nes",True,True
+722530,7,4,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled products, alloy steel, o/t ss,in coils, nfw than hr, >= 600 mm wide",True,True
+722540,8,4,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled prod, al/s, o/t stainless, nic, nfw than hr, >= 600 mm wide, nes",True,True
+722550,7,4,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled products, of other alloy steel, >= 600 mm wide, nfwt cold roll, nes",True,True
+722591,1,1,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled prod,al/s,o/t stainless,electrol pltd/ctd w zinc,>=600mm wide,nes",True,True
+722592,1,1,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled prod,al/s,o/t stainless,o/w plated/ctd with zinc,>=600mm wide,nes",True,True
+722599,2,1,1,covered_core_232,7225,flat_rolled,4,1,1,"Flat rolled products, al/s, o/t stainless, >= 600 mm wide, nes",True,True
+722611,3,2,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled prod,al,o/t stainless,of sil elect steel,grain oriented,<600mm wide",True,True
+722619,2,2,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled products, alloy, o/t stain, of silicon elec steel, <600 mm wide, nes",True,True
+722620,1,1,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled products, of high speed steel, < 600 mm wide",True,True
+722691,8,6,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled prod, as, o/t stainless, nfw than hot rolled, <600mm wide, nes",True,True
+722692,9,5,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled products, as, o/t stainless, nfw than cold rolled, < 600mm wide, nes",True,True
+722699,3,1,1,covered_core_232,7226,flat_rolled,4,1,1,"Flat rolled products, al/s, o/t stainless, < 600 mm wide, nes",True,True
+722710,1,1,1,covered_core_232,7227,bars_wire_sections,4,1,1,"Bars & rods, of high speed steel, hr, in irregularly wound coils",True,False
+722720,2,1,1,covered_core_232,7227,bars_wire_sections,4,1,1,"Bars & rods, of silico-manganese steel, hr, in irregularly wound coils",True,True
+722790,11,3,1,covered_core_232,7227,bars_wire_sections,4,1,1,"Bars & rods, alloy steel, o/t stainless hr, in irregularly wound coils, nes",True,True
+722810,3,1,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars and rods of high speed steel, nes",True,True
+722820,2,2,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars and rods of silico-manganese steel, nes",True,True
+722830,9,4,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars & rods, alloy steel,o/t stainless, nfw than hot rolled/drawn/extruded, nes",True,True
+722840,1,1,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars & rods, as, o/t stainless, not further worked than forged",True,True
+722850,9,2,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars & rods, as, o/t stainless, not further worked than cold formed/finished",True,True
+722860,4,3,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars & rods, alloy steel, o/t stainless, nes",True,True
+722870,6,2,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Angles, shapes and sections,etc, as,o/t stainless, nes",True,True
+722880,1,1,1,covered_core_232,7228,bars_wire_sections,4,1,1,"Bars & rods, hollow drill, alloy or non-alloy steel",True,True
+722920,3,1,1,covered_core_232,7229,bars_wire_sections,4,1,1,Wire of silico-manganese steel,True,True
+722990,8,4,1,covered_core_232,7229,bars_wire_sections,4,1,1,"Wire of alloy steel, o/t stainless",True,True
+730110,1,1,1,covered_core_232,7301,bars_wire_sections,4,1,1,"Sheet piling,iron/steel, whether or not drilled/punched/made from assem elements",True,True
+730210,11,2,1,covered_core_232,7302,bars_wire_sections,4,1,1,"Rails, iron or steel",True,True
+730240,1,1,1,covered_core_232,7302,bars_wire_sections,4,1,1,"Fish-plates and sole plates, iron or steel, for railway or tramway track",True,True
+730411,3,1,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Line pipe, stainless steel, seamless, of a kind used for oil or gas pipelines",True,True
+730419,8,2,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Line pipe, or iron/steel, nes, seamless, of a kind used for oil or gas pipelines",True,True
+730422,3,1,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Drill pipe, stainless steel, seamless, for use in drilling for oil or gas",True,True
+730423,4,2,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Drill pipe, of iron/steel, nes, seamless, for use in drilling for oil or gas",True,True
+730424,18,3,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Casings, tubing, stainless steel, seamless, for use in drilling for oil or gas",True,True
+730429,38,6,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Casings and tubing, of iron/steel, nes,seamless,kind use in drilling for oil/gas",True,True
+730431,3,2,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, i or nas, smls, cd/cr, of circ cross section, nes",True,True
+730439,20,1,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, i or nas, smls, of circ cross section, nes",True,True
+730441,6,2,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, stain steel,smls, cd/cr of circ cross sect,nes",True,True
+730449,4,1,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes,pipes & hollow profiles, stainless steel, seamless, of circ cross sect,nes",True,True
+730451,5,2,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes,pipes & hollow profiles,alloy steel,o/t ss,seamless,cd/cr,circ c-sect,nes",True,True
+730459,23,4,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes,pipes & hollow profiles,as, o/t stainless, seamless,of circ cross sect,nes",True,True
+730490,4,4,1,covered_core_232,7304,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, iron or steel, smls, nes",True,True
+730511,3,2,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Line pipe, i or s, longitudinally subm arc wld, cc sect, dia >406.4mm",True,True
+730512,3,2,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Line pipe,i/s,longitud welded,circ cross sect,ext dia>406.4mm,f oil/gas pipeline",True,True
+730519,3,2,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Line pipe, i or s, circ cross sect, wld, ext dia >406.4mm, nes",True,True
+730520,4,4,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Casings, i/s, circ c sect, wld ext dia >406.4mm, oil/gas drill, nes",True,True
+730531,4,3,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Tubes & pipe, i or s, longitudinally welded, external dia >406.4mm, nes",True,True
+730539,2,2,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Tubes & pipe, i or s, welded, riveted or sim closed, ext dia >406.4mm, nes",True,True
+730590,2,2,1,covered_core_232,7305,tubes_and_pipes,4,1,1,"Tubes & pipe, i or s, riveted or sim closed, ext dia >406.4mm, nes",True,True
+730611,2,1,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Line pipe, stainless steel, welded, nes, for oil or gas pipeline",True,True
+730619,4,2,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Line pipe, i or s, welded, riveted or sim closed, nes, for oil or gas pipeline",True,True
+730621,4,3,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Casing and tubing, stainless steel, welded, for oil or gas drilling",True,True
+730629,9,6,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Casing/tubing,i/s, wld o/t ss, riveted or sim clsd, nes, for oil/gas drilling",True,True
+730630,17,3,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, iron or nas, welded, of circ cross sect, nes",True,True
+730640,13,2,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes, pipe & hollow profiles, stainless steel, welded, of circ cross sect,nes",True,True
+730650,6,3,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes,pipes & hollow profiles,al/s,o/t stain,welded,of circular cross sect,nes",True,True
+730661,5,4,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes, pipes & hollow profiles, i/s, welded, square or rect cross section, nes",True,True
+730669,5,4,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes, pipes & hollow profiles, i/s,welded,of non circular cross section,nes",True,True
+730690,2,2,1,covered_core_232,7306,tubes_and_pipes,4,1,1,"Tubes, pipes and hollow profiles, iron or steel, welded, nes",True,True

@@ -1,0 +1,55 @@
+{
+  "cimt_rows_by_year": {
+    "2022": 1283380,
+    "2023": 1294235,
+    "2024": 1292368,
+    "2025": 1264188
+  },
+  "pre_months": 37,
+  "transition_months": 2,
+  "post_months": 2,
+  "potential_core_hts10_lines": 744,
+  "potential_core_hts8_lines": 301,
+  "potential_core_hs6": 167,
+  "potential_core_hs4": 29,
+  "core_legal_blocks": 5,
+  "core_stable_active_hs6": 166,
+  "core_stable_active_hs4": 29,
+  "core_hs4_with_complete_US_coverage": 24,
+  "core_distinct_legal_effective_date_cohorts": 1,
+  "independent_shock_families_verified": false,
+  "unmatched_march_hts10_with_positive_us_consumption_value": 0,
+  "mirror_rows_aggregated_by_rate_code": 1388,
+  "mapping_is_statutory_not_entry_eligibility": true,
+  "estimation_decision": "no-go pending policy-clean comparisons and validated preference/exemption coverage",
+  "files": {
+    "us_legal_hts10.csv": {
+      "rows": 798,
+      "sha256": "a4875f8dbbaab5ecf882f3b81db6dee6a310a4ab2a35bd1733c5a72017784bb7"
+    },
+    "hs6_linkage.csv": {
+      "rows": 200,
+      "sha256": "57db5945e653524ea37c07bbfcd2fe6f00fc4ba2cec62bfeff01172d7d32fc79"
+    },
+    "canadian_reported_trade.csv": {
+      "rows": 8653,
+      "sha256": "8e7e1e12e3c33a13a31d9bc9f2cdacc63115a8e000ec1e308ebbae9e5a5609d3"
+    },
+    "canadian_coverage.csv": {
+      "rows": 1200,
+      "sha256": "54d3c7fba6ed847bc78ca0ed2284ad8d0619dd39ebb8ecb0f243a99ddd14e940"
+    },
+    "complete_link_counts.csv": {
+      "rows": 6,
+      "sha256": "e7e7fb07c5b41f9e9126f2fc41f0fa5f198e46b165a3e64b7d2d95505be4f92e"
+    },
+    "us_import_mirror.csv": {
+      "rows": 1388,
+      "sha256": "1710a730ea2a42e91736a88c1591b2cecc7b2eaf87caec324eaed7effc50413e"
+    },
+    "us_import_scope_totals.csv": {
+      "rows": 9,
+      "sha256": "6cc5e6f4e379da8c23c107c4dbccccd9a4f0e944cdad1037f11496adfbdb3a7d"
+    }
+  }
+}

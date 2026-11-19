@@ -1,0 +1,51 @@
+{
+  "archived_annual": {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/12100133-eng.zip",
+    "path": "data/raw/phase3/archived_annual-beebca1283d0.zip",
+    "sha256": "beebca1283d0517ee9935c053e6836d6152c77321ded23037df0bba70e7f8ed8",
+    "bytes": 23666805,
+    "downloaded_at_utc": "2026-11-19T00:50:04+00:00",
+    "last_modified": "Mon, 24 Feb 2025 13:30:29 GMT",
+    "members": [
+      "12100133.csv",
+      "12100133_MetaData.csv"
+    ],
+    "status": "downloaded"
+  },
+  "archived_monthly": {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/12100119-eng.zip",
+    "path": "data/raw/phase3/archived_monthly-ce3876c6d1d9.zip",
+    "sha256": "ce3876c6d1d95fc55bff28bc56cc19dd598d3a462cb395c0eff1902630ec579b",
+    "bytes": 45267383,
+    "downloaded_at_utc": "2026-11-19T00:50:06+00:00",
+    "last_modified": "Thu, 07 Dec 2023 13:30:16 GMT",
+    "members": [
+      "12100119.csv",
+      "12100119_MetaData.csv"
+    ],
+    "status": "downloaded"
+  },
+  "cimt_2020": {
+    "url": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Dom_Exp_2020.zip",
+    "path": "data/raw/phase3/cimt_2020-fac6a4ce07dd.zip",
+    "sha256": "fac6a4ce07dd4d25d237bbfc90b4d6c9739a4cd9e0fcd653d8a0bbc893ac78ce",
+    "bytes": 23718208,
+    "downloaded_at_utc": "2026-11-19T00:50:07+00:00",
+    "last_modified": "Tue, 07 Feb 2023 13:30:27 GMT",
+    "members": [
+      "CIMT-CICM_Dom_Exp_2020/Note aux utilisateurs.docx",
+      "CIMT-CICM_Dom_Exp_2020/Note to User.docx",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_2_HS8Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_4_HS6XDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_5_HS2Desc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_6_CtyDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_7_StateDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_8_ProvDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPF_9_UOMDesc.TXT",
+      "CIMT-CICM_Dom_Exp_2020/ODPFN016_202012N.csv",
+      "CIMT-CICM_Dom_Exp_2020/ODPFN018_202012N.csv",
+      "CIMT-CICM_Dom_Exp_2020/ODPFN020_202012N.csv"
+    ],
+    "status": "downloaded"
+  }
+}

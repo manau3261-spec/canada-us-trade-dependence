@@ -1,0 +1,13 @@
+# GitHub publication steps
+
+**Status:** Phase 7A is local preparation. A private remote transfer also requires explicit authorization. No repository, ref, tag, release or visibility setting has been created or changed remotely.
+
+## Recommended path after authorization
+
+1. Record Manau Salaun’s approval for the exact ZIP checksum or reviewed commit and for each release surface. Confirm the owner account and the repository name `canada-us-trade-dependence`. Choose an author-approved contact entry or retain the placeholder. Use a verified or approved Git commit email, such as the account's GitHub-provided noreply address.
+2. Start from the verified distribution in a fresh local repository. Run the path, size and checksum verification, the tests, and a tracked-file and secret review. Check all refs and objects of any proposed repository history for sensitive material and ensure neither raw data nor the upstream research archive has been staged.
+3. If the owner authorizes a private GitHub transfer, create a fresh repository with **Private** visibility and upload only the reviewed commit. Verify repository settings, collaborator access, commit metadata and the remote default branch before any wider visibility change. Record the exact commit corresponding to the manifest.
+4. Obtain explicit public-release approval for that commit. Review repository metadata, history, issues and pull requests, Actions logs, files and licences that will become visible. Use GitHub **Settings → General → Danger Zone → Change repository visibility**, choose **Public**, and confirm the repository name and warnings. Verify anonymously that the main page renders, both papers and data notices open, and the manifest matches. A tag or GitHub Release is a separate action for the approved revision if the owner requests it. [GitHub visibility guide](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)
+5. Preserve a private copy of the audited ZIP and checksum. If sensitive material is later discovered, revoke affected credentials first and follow GitHub’s removal guidance for commits, refs, cached views and forks. Review the remediated history before any new visibility change. [GitHub sensitive-data remediation](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+
+The checked source and candidate contained no Git history. A private remote with unknown history is outside this verification. Switching a repository back to private does not recall copies made while it was publicly visible. [Approval checklist](final_approval_checklist.md)

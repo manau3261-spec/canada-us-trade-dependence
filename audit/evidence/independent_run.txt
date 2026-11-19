@@ -1,0 +1,4 @@
+Locked original Statistics Canada files verified
+Annual, monthly and destination calculations checked
+Concentration, GDP, value added and detailed HS calculations checked
+Independent SVD fit, CR1 variants and restricted Webb inversion checked

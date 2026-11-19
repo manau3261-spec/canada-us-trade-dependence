@@ -1,0 +1,4 @@
+canada_us_trade_en.html matched byte for byte
+canada_us_trade_en.pdf 20 pages and text match; byte identity: False
+canada_us_trade_fr.html matched byte for byte
+canada_us_trade_fr.pdf 21 pages and text match; byte identity: False
